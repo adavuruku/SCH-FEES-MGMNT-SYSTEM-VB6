@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "receipt" Text = "Receipt of school fees payment" WindowSize = "543, 557" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_receipt.jpg" HtmlFileName="Project1_Form_receipt.htm" HelpContextId = "2620" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Receipt of school fees payment" >
+<Controls>
+  <Image Name = "Image4" Text = "Image4" ClassName = "Image" Location = "505, 0" Size = "30, 17" TabIndex = "0" HelpContextId = "2630" HotSpot = "505,0,535,17" Level = "1" Indexes = "Image4" />
+  <Image Name = "Image2" Text = "Image2" ClassName = "Image" Location = "8, 16" Size = "129, 81" TabIndex = "0" HelpContextId = "2640" HotSpot = "8,16,137,97" Level = "1" Indexes = "Image2" />
+  <Label Name = "receipt" Text = "receipt" ClassName = "Label" Location = "128, 176" Size = "281, 25" TabIndex = "0" HelpContextId = "2650" HotSpot = "128,176,409,201" Level = "1" Indexes = "receipt" />
+  <Image Name = "Image1" Text = "Image1" ClassName = "Image" Location = "0, 88" Size = "529, 433" TabIndex = "0" HelpContextId = "2660" HotSpot = "0,88,529,521" Level = "1" Indexes = "Image1" />
+  <Label Name = "datepaid" Text = "datepaid" ClassName = "Label" Location = "128, 200" Size = "281, 25" TabIndex = "1" HelpContextId = "2670" HotSpot = "128,200,409,225" Level = "1" Indexes = "datepaid" />
+  <Label Name = "amount" Text = "amount" ClassName = "Label" Location = "168, 248" Size = "329, 25" TabIndex = "2" HelpContextId = "2680" HotSpot = "168,248,497,273" Level = "1" Indexes = "amount" />
+  <Label Name = "sumof" Text = "sumof" ClassName = "Label" Location = "168, 304" Size = "361, 17" TabIndex = "3" HelpContextId = "2690" HotSpot = "168,304,529,321" Level = "1" Indexes = "sumof" />
+  <Label Name = "fee" Text = "fee" ClassName = "Label" Location = "152, 376" Size = "409, 17" TabIndex = "4" HelpContextId = "2700" HotSpot = "152,376,561,393" Level = "1" Indexes = "fee" />
+  <Label Name = "Label18" Text = "Adekaa, Gboko, Benue State" ClassName = "Label" Location = "224, 72" Size = "225, 25" TabIndex = "5" HelpContextId = "2710" HotSpot = "224,72,449,97" Level = "1" Indexes = "Adekaa, Gboko, Benue State" />
+  <Label Name = "Label17" Text = "No. 18, Orafaga dem Street" ClassName = "Label" Location = "232, 48" Size = "225, 25" TabIndex = "6" HelpContextId = "2720" HotSpot = "232,48,457,73" Level = "1" Indexes = "No. 18, Orafaga dem Street" />
+  <Label Name = "Label16" Text = "UPLIFT PRIMARY SCHOOL" ClassName = "Label" Location = "128, 16" Size = "409, 41" TabIndex = "7" HelpContextId = "2730" HotSpot = "128,16,537,57" Level = "1" Indexes = "UPLIFT PRIMARY SCHOOL" />
+  <Label Name = "Label3" Text = "Close" ClassName = "Label" Location = "504, 16" Size = "32, 13" TabIndex = "8" HelpContextId = "2740" HotSpot = "504,16,536,29" Level = "1" Indexes = "Close" />
+  <CommandButton Name = "Command1" Text = "Print" ClassName = "CommandButton" Location = "456, 528" Size = "65, 25" TabIndex = "9" HelpContextId = "2750" HotSpot = "456,528,521,553" Level = "1" Indexes = "Print" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Image4" Bmk="Image4" Caption="Image4"  />
+<Item  Name="Image2" Bmk="Image2" Caption="Image2"  />
+<Item  Name="Image1" Bmk="Image1" Caption="Image1"  />
+<Item  Name="Command1" Bmk="Command1" Caption="Print"  />
+</Controls>
+</Documented>
+</Form>

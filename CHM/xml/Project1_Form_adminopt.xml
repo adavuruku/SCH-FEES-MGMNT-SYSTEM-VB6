@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "adminopt" Text = "Administrative Task" WindowSize = "459, 215" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_adminopt.jpg" HtmlFileName="Project1_Form_adminopt.htm" HelpContextId = "3990" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Administrative Task" >
+<Controls>
+  <Frame Name = "Frame1" Text = "Frame1" ClassName = "Frame" Location = "16, 16" Size = "425, 177" TabIndex = "0" HelpContextId = "4000" PicFileName = "Project1_Form_adminopt_Frame1.jpg" HotSpot = "16,16,441,193" Level = "1" Indexes = "Frame1" >
+  <Controls>
+    <Image Name = "Image4" Text = "Image4" ClassName = "Image" Location = "409, 24" Size = "30, 17" TabIndex = "0" HelpContextId = "4010" HotSpot = "409,24,439,41" Level = "2" Indexes = "Image4" />
+    <CommandButton Name = "Command4" Text = "Backup Database" ClassName = "CommandButton" Location = "256, 128" Size = "105, 33" TabIndex = "1" HelpContextId = "4020" HotSpot = "256,128,361,161" Level = "2" Indexes = "Backup Database" />
+    <CommandButton Name = "Command3" Text = "Create New Session" ClassName = "CommandButton" Location = "56, 128" Size = "113, 33" TabIndex = "2" HelpContextId = "4030" HotSpot = "56,128,169,161" Level = "2" Indexes = "Create New Session" />
+    <CommandButton Name = "Command2" Text = "Edit User Previlege" ClassName = "CommandButton" Location = "256, 56" Size = "105, 33" TabIndex = "3" HelpContextId = "4040" HotSpot = "256,56,361,89" Level = "2" Indexes = "Edit User Previlege" />
+    <CommandButton Name = "Command1" Text = "Create User Account" ClassName = "CommandButton" Location = "56, 56" Size = "113, 33" TabIndex = "4" HelpContextId = "4050" HotSpot = "56,56,169,89" Level = "2" Indexes = "Create User Account" />
+    <Label Name = "Label3" Text = "Close" ClassName = "Label" Location = "408, 40" Size = "32, 13" TabIndex = "5" HelpContextId = "4060" HotSpot = "408,40,440,53" Level = "2" Indexes = "Close" />
+  </Controls>
+  </Frame>
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Frame1" Bmk="Frame1" Caption="Frame1"  />
+<Item  Name="Image4" Bmk="Image4" Caption="Image4"  />
+<Item  Name="Command4" Bmk="Command4" Caption="Backup Database"  />
+<Item  Name="Command3" Bmk="Command3" Caption="Create New Session"  />
+<Item  Name="Command2" Bmk="Command2" Caption="Edit User Previlege"  />
+<Item  Name="Command1" Bmk="Command1" Caption="Create User Account"  />
+</Controls>
+</Documented>
+</Form>

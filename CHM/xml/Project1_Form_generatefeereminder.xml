@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "generatefeereminder" Text = "Form5" WindowSize = "410, 193" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_generatefeereminder.jpg" HtmlFileName="Project1_Form_generatefeereminder.htm" HelpContextId = "3060" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Form5" >
+<Controls>
+  <Frame Name = "Frame1" Text = "Select Term" ClassName = "Frame" Location = "24, 48" Size = "361, 121" TabIndex = "0" HelpContextId = "3070" PicFileName = "Project1_Form_generatefeereminder_Frame1.jpg" HotSpot = "24,48,385,169" Level = "1" Indexes = "Select Term" >
+  <Controls>
+    <Image Name = "Image4" Text = "Image4" ClassName = "Image" Location = "353, 56" Size = "30, 17" TabIndex = "0" HelpContextId = "3080" HotSpot = "353,56,383,73" Level = "2" Indexes = "Image4" />
+    <CommandButton Name = "Command2" Text = "Display" ClassName = "CommandButton" Location = "128, 136" Size = "89, 25" TabIndex = "1" HelpContextId = "3090" HotSpot = "128,136,217,161" Level = "2" Indexes = "Display" />
+    <ComboBox Name = "cmbterm" Text = "cmbterm" ClassName = "ComboBox" Location = "128, 72" Size = "145, 21" TabIndex = "2" HelpContextId = "3100" HotSpot = "128,72,273,93" Level = "2" Indexes = "cmbterm" />
+    <Label Name = "Label3" Text = "Close" ClassName = "Label" Location = "352, 72" Size = "32, 13" TabIndex = "3" HelpContextId = "3110" HotSpot = "352,72,384,85" Level = "2" Indexes = "Close" />
+    <Label Name = "yer" Text = "TERM" ClassName = "Label" Location = "32, 72" Size = "89, 25" TabIndex = "4" HelpContextId = "3120" HotSpot = "32,72,121,97" Level = "2" Indexes = "TERM" />
+    <Label Name = "Label4" Text = "ADMISSION NUMBER:" ClassName = "Label" Location = "32, 104" Size = "89, 25" TabIndex = "6" HelpContextId = "3130" HotSpot = "32,104,121,129" Level = "2" Indexes = "ADMISSION NUMBER" />
+    <TextBox Name = "TXTADMINNUM" Text = "ADMISSION NUMBER:" Description = "Please enter admision number" ClassName = "TextBox" Location = "128, 104" Size = "145, 27" TabIndex = "7" HelpContextId = "3140" HotSpot = "128,104,273,131" Level = "2" Indexes = "ADMISSION NUMBER" />
+  </Controls>
+  </Frame>
+  <Label Name = "Label2" Text = "Generate Fee Reminder Letter" ClassName = "Label" Location = "24, 16" Size = "210, 16" TabIndex = "5" HelpContextId = "3150" HotSpot = "24,16,234,32" Level = "1" Indexes = "Generate Fee Reminder Letter" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Frame1" Bmk="Frame1" Caption="Select Term"  />
+<Item  Name="Image4" Bmk="Image4" Caption="Image4"  />
+<Item  Name="Command2" Bmk="Command2" Caption="Display"  />
+<Item  Name="cmbterm" Bmk="cmbterm" Caption="cmbterm"  />
+<Item  Name="TXTADMINNUM" Bmk="TXTADMINNUM" Caption="ADMISSION NUMBER"  />
+</Controls>
+</Documented>
+</Form>

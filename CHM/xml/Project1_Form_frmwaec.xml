@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "frmwaec" Text = "Report of Registered Waec Students" WindowSize = "409, 168" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_frmwaec.jpg" HtmlFileName="Project1_Form_frmwaec.htm" HelpContextId = "3260" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Report of Registered Waec Studen..." >
+<Controls>
+  <Frame Name = "Frame1" Text = "Select Year" ClassName = "Frame" Location = "32, 40" Size = "361, 113" TabIndex = "0" HelpContextId = "3270" PicFileName = "Project1_Form_frmwaec_Frame1.jpg" HotSpot = "32,40,393,153" Level = "1" Indexes = "Select Year" >
+  <Controls>
+    <Image Name = "Image4" Text = "Image4" ClassName = "Image" Location = "361, 48" Size = "30, 17" TabIndex = "0" HelpContextId = "3280" HotSpot = "361,48,391,65" Level = "2" Indexes = "Image4" />
+    <ComboBox Name = "txtdate" Text = "txtdate" ClassName = "ComboBox" Location = "136, 64" Size = "145, 21" TabIndex = "1" HelpContextId = "3290" HotSpot = "136,64,281,85" Level = "2" Indexes = "txtdate" />
+    <CommandButton Name = "Command1" Text = "Display" ClassName = "CommandButton" Location = "136, 96" Size = "89, 17" TabIndex = "2" HelpContextId = "3300" HotSpot = "136,96,225,113" Level = "2" Indexes = "Display" />
+    <Label Name = "yer" Text = "YEAR OF EXAMS" ClassName = "Label" Location = "40, 64" Size = "89, 25" TabIndex = "3" HelpContextId = "3310" HotSpot = "40,64,129,89" Level = "2" Indexes = "YEAR OF EXAMS" />
+  </Controls>
+  </Frame>
+  <Label Name = "Label1" Text = "Report of Registered Waec Students" ClassName = "Label" Location = "32, 8" Size = "254, 16" TabIndex = "4" HelpContextId = "3320" HotSpot = "32,8,286,24" Level = "1" Indexes = "Report of Registered Waec Studen..." />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Frame1" Bmk="Frame1" Caption="Select Year"  />
+<Item  Name="Image4" Bmk="Image4" Caption="Image4"  />
+<Item  Name="txtdate" Bmk="txtdate" Caption="txtdate"  />
+<Item  Name="Command1" Bmk="Command1" Caption="Display"  />
+</Controls>
+</Documented>
+</Form>

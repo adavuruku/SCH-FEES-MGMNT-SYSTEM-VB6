@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "frmcommon" Text = "Form4" WindowSize = "406, 184" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_frmcommon.jpg" HtmlFileName="Project1_Form_frmcommon.htm" HelpContextId = "3470" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Form4" >
+<Controls>
+  <Frame Name = "Frame1" Text = "Select Year" ClassName = "Frame" Location = "24, 48" Size = "361, 113" TabIndex = "0" HelpContextId = "3480" PicFileName = "Project1_Form_frmcommon_Frame1.jpg" HotSpot = "24,48,385,161" Level = "1" Indexes = "Select Year" >
+  <Controls>
+    <Image Name = "Image4" Text = "Image4" ClassName = "Image" Location = "353, 56" Size = "30, 17" TabIndex = "0" HelpContextId = "3490" HotSpot = "353,56,383,73" Level = "2" Indexes = "Image4" />
+    <CommandButton Name = "Command2" Text = "Display" ClassName = "CommandButton" Location = "128, 104" Size = "89, 25" TabIndex = "1" HelpContextId = "3500" HotSpot = "128,104,217,129" Level = "2" Indexes = "Display" />
+    <ComboBox Name = "txtdate" Text = "txtdate" ClassName = "ComboBox" Location = "128, 72" Size = "145, 21" TabIndex = "2" HelpContextId = "3510" HotSpot = "128,72,273,93" Level = "2" Indexes = "txtdate" />
+    <Label Name = "yer" Text = "YEAR OF EXAMS" ClassName = "Label" Location = "32, 72" Size = "89, 25" TabIndex = "3" HelpContextId = "3520" HotSpot = "32,72,121,97" Level = "2" Indexes = "YEAR OF EXAMS" />
+  </Controls>
+  </Frame>
+  <Label Name = "Label2" Text = "Report of Registered  Common Entrance Students" ClassName = "Label" Location = "24, 16" Size = "343, 16" TabIndex = "4" HelpContextId = "3530" HotSpot = "24,16,367,32" Level = "1" Indexes = "Report of Registered  Common Ent..." />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Frame1" Bmk="Frame1" Caption="Select Year"  />
+<Item  Name="Image4" Bmk="Image4" Caption="Image4"  />
+<Item  Name="Command2" Bmk="Command2" Caption="Display"  />
+<Item  Name="txtdate" Bmk="txtdate" Caption="txtdate"  />
+</Controls>
+</Documented>
+</Form>

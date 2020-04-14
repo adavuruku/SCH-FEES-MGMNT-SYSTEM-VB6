@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "seconterm" Text = "Second Term Fee Paying Form" WindowSize = "693, 378" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_seconterm.jpg" HtmlFileName="Project1_Form_seconterm.htm" HelpContextId = "110" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Second Term Fee Paying Form" >
+<Controls>
+  <Frame Name = "Frame2" Text = "Frame2" ClassName = "Frame" Location = "16, 280" Size = "657, 73" TabIndex = "8" HelpContextId = "120" PicFileName = "Project1_Form_seconterm_Frame2.jpg" HotSpot = "16,280,673,353" Level = "1" Indexes = "Frame2" >
+  <Controls>
+    <CommandButton Name = "cmdButton(7)" Text = "Close" ClassName = "CommandButton" Location = "288, 296" Size = "57, 49" TabIndex = "26" Index = "7" HelpContextId = "130" HotSpot = "288,296,345,345" Level = "2" Indexes = "Close" />
+    <CommandButton Name = "cmdsavee(6)" Text = "Save" ClassName = "CommandButton" Location = "136, 296" Size = "57, 49" TabIndex = "27" Index = "6" HelpContextId = "140" HotSpot = "136,296,193,345" Level = "2" Indexes = "Save" />
+    <CommandButton Name = "Command2" Text = "Clear" ClassName = "CommandButton" Location = "216, 296" Size = "57, 49" TabIndex = "28" HelpContextId = "150" HotSpot = "216,296,273,345" Level = "2" Indexes = "Clear" />
+  </Controls>
+  </Frame>
+  <Frame Name = "Frame1" Text = "Second Term School Fees Interface" ClassName = "Frame" Location = "16, 40" Size = "657, 241" TabIndex = "9" HelpContextId = "160" PicFileName = "Project1_Form_seconterm_Frame1.jpg" HotSpot = "16,40,673,281" Level = "1" Indexes = "Second Term School Fees Interfac..." >
+  <Controls>
+    <TextBox Name = "txtadminno" Text = "txtadminno" Description = "Select date" ClassName = "TextBox" Location = "136, 56" Size = "185, 19" TabIndex = "0" HelpContextId = "170" HotSpot = "136,56,321,75" Level = "2" Indexes = "txtadminno" />
+    <ComboBox Name = "cmbclass" Text = "cmbclass" ClassName = "ComboBox" Location = "456, 96" Size = "185, 21" TabIndex = "1" HelpContextId = "180" HotSpot = "456,96,641,117" Level = "2" Indexes = "cmbclass" />
+    <ComboBox Name = "cmbsex" Text = "cmbsex" ClassName = "ComboBox" Location = "136, 88" Size = "185, 21" TabIndex = "2" HelpContextId = "190" HotSpot = "136,88,321,109" Level = "2" Indexes = "cmbsex" />
+    <TextBox Name = "txtfeedue" Text = "txtfeedue" ClassName = "TextBox" Location = "136, 120" Size = "185, 27" TabIndex = "3" HelpContextId = "200" HotSpot = "136,120,321,147" Level = "2" Indexes = "txtfeedue" />
+    <TextBox Name = "arrears_due" Text = "arrears_due" ClassName = "TextBox" Location = "456, 120" Size = "185, 25" TabIndex = "4" HelpContextId = "210" HotSpot = "456,120,641,145" Level = "2" Indexes = "arrears_due" />
+    <TextBox Name = "txtaccfee" Text = "txtaccfee" ClassName = "TextBox" Location = "136, 160" Size = "185, 25" TabIndex = "5" HelpContextId = "220" HotSpot = "136,160,321,185" Level = "2" Indexes = "txtaccfee" />
+    <TextBox Name = "txtfeepaid" Text = "txtfeepaid" ClassName = "TextBox" Location = "136, 192" Size = "185, 25" TabIndex = "6" HelpContextId = "230" HotSpot = "136,192,321,217" Level = "2" Indexes = "txtfeepaid" />
+    <TextBox Name = "txtbal" Text = "txtbal" ClassName = "TextBox" Location = "456, 192" Size = "185, 25" TabIndex = "7" HelpContextId = "240" HotSpot = "456,192,641,217" Level = "2" Indexes = "txtbal" />
+    <Label Name = "Label2" Text = "Admin No.:" ClassName = "Label" Location = "32, 56" Size = "88, 20" TabIndex = "10" HelpContextId = "250" HotSpot = "32,56,120,76" Level = "2" Indexes = "Admin No." />
+    <Label Name = "Label3" Text = "Class:" ClassName = "Label" Location = "400, 96" Size = "50, 20" TabIndex = "11" HelpContextId = "260" HotSpot = "400,96,450,116" Level = "2" Indexes = "Class" />
+    <Label Name = "Label4" Text = "Sex:" ClassName = "Label" Location = "88, 88" Size = "36, 20" TabIndex = "12" HelpContextId = "270" HotSpot = "88,88,124,108" Level = "2" Indexes = "Sex" />
+    <Label Name = "Label6(0)" Text = "Arrears Due:" ClassName = "Label" Location = "344, 120" Size = "103, 20" TabIndex = "13" HelpContextId = "280" HotSpot = "344,120,447,140" Level = "2" Indexes = "Arrears Due" />
+    <Label Name = "Label7(0)" Text = "Acc. Fee:" ClassName = "Label" Location = "48, 160" Size = "77, 20" TabIndex = "14" HelpContextId = "290" HotSpot = "48,160,125,180" Level = "2" Indexes = "Acc. Fee" />
+    <Label Name = "Label8" Text = "Reciept No.:" ClassName = "Label" Location = "344, 160" Size = "100, 20" TabIndex = "15" HelpContextId = "300" HotSpot = "344,160,444,180" Level = "2" Indexes = "Reciept No." />
+    <Label Name = "Label9" Text = "Balance:" ClassName = "Label" Location = "376, 192" Size = "71, 20" TabIndex = "16" HelpContextId = "310" HotSpot = "376,192,447,212" Level = "2" Indexes = "Balance" />
+    <Label Name = "Label6(1)" Text = "Fee Due:" ClassName = "Label" Location = "48, 120" Size = "75, 20" TabIndex = "17" Index = "1" HelpContextId = "320" HotSpot = "48,120,123,140" Level = "2" Indexes = "Fee Due" />
+    <Label Name = "Label7(1)" Text = "Fee Paid:" ClassName = "Label" Location = "48, 200" Size = "77, 20" TabIndex = "18" Index = "1" HelpContextId = "330" HotSpot = "48,200,125,220" Level = "2" Indexes = "Fee Paid" />
+    <Label Name = "Label1" Text = "Status:" ClassName = "Label" Location = "64, 232" Size = "59, 20" TabIndex = "19" HelpContextId = "340" HotSpot = "64,232,123,252" Level = "2" Indexes = "Status" />
+    <TextBox Name = "txtstatus" Text = "Status:" Description = "Select date" ClassName = "TextBox" Location = "136, 224" Size = "185, 25" TabIndex = "20" HelpContextId = "350" HotSpot = "136,224,321,249" Level = "2" Indexes = "Status" />
+    <TextBox Name = "txtrno" Text = "txtrno" Description = "Select date" ClassName = "TextBox" Location = "456, 152" Size = "185, 25" TabIndex = "21" HelpContextId = "360" HotSpot = "456,152,641,177" Level = "2" Indexes = "txtrno" />
+    <CommandButton Name = "Command1" Text = "Show Fee" ClassName = "CommandButton" Location = "344, 224" Size = "41, 25" TabIndex = "22" HelpContextId = "370" HotSpot = "344,224,385,249" Level = "2" Indexes = "Show Fee" />
+    <Label Name = "Label5" Text = "Name.:" ClassName = "Label" Location = "392, 64" Size = "57, 20" TabIndex = "23" HelpContextId = "380" HotSpot = "392,64,449,84" Level = "2" Indexes = "Name." />
+    <TextBox Name = "txtname" Text = "Name.:" Description = "Select date" ClassName = "TextBox" Location = "456, 64" Size = "185, 19" TabIndex = "24" HelpContextId = "390" HotSpot = "456,64,641,83" Level = "2" Indexes = "Name." />
+  </Controls>
+  </Frame>
+  <Label Name = "Label10" Text = "PAYMENT OF SECOND TERM SCHOOL FEES" ClassName = "Label" Location = "40, 8" Size = "552, 29" TabIndex = "25" HelpContextId = "400" HotSpot = "40,8,592,37" Level = "1" Indexes = "PAYMENT OF SECOND TERM SCHOOL FE..." />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Frame2" Bmk="Frame2" Caption="Frame2"  />
+<Item  Name="cmdButton_7_" Bmk="cmdButton_7_" Caption="Close"  />
+<Item  Name="cmdsavee_6_" Bmk="cmdsavee_6_" Caption="Save"  />
+<Item  Name="Command2" Bmk="Command2" Caption="Clear"  />
+<Item  Name="Frame1" Bmk="Frame1" Caption="Second Term School Fees Interface"  />
+<Item  Name="txtadminno" Bmk="txtadminno" Caption="txtadminno"  />
+<Item  Name="cmbclass" Bmk="cmbclass" Caption="cmbclass"  />
+<Item  Name="cmbsex" Bmk="cmbsex" Caption="cmbsex"  />
+<Item  Name="txtfeedue" Bmk="txtfeedue" Caption="txtfeedue"  />
+<Item  Name="arrears_due" Bmk="arrears_due" Caption="arrears_due"  />
+<Item  Name="txtaccfee" Bmk="txtaccfee" Caption="txtaccfee"  />
+<Item  Name="txtfeepaid" Bmk="txtfeepaid" Caption="txtfeepaid"  />
+<Item  Name="txtbal" Bmk="txtbal" Caption="txtbal"  />
+<Item  Name="txtstatus" Bmk="txtstatus" Caption="Status"  />
+<Item  Name="txtrno" Bmk="txtrno" Caption="txtrno"  />
+<Item  Name="Command1" Bmk="Command1" Caption="Show Fee"  />
+<Item  Name="txtname" Bmk="txtname" Caption="Name."  />
+</Controls>
+</Documented>
+</Form>

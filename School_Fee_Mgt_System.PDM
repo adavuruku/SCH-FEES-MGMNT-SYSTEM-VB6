@@ -1,0 +1,146 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+SchoolFee.CHI=
+msado20.tlb=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Windows\System32\msstdfmt.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCOMCT2.OCX=
+C:\Windows\System32\MSCOMCTL.OCX=
+C:\Windows\System32\comdlg32.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\database\20082009.mdb=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\School_Fee_Mgt_System.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\comdlg32.OCX=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Windows\System32\MSCHRT20.OCX=Yes
+C:\Windows\System32\SYSINFO.OCX=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\msstdfmt.dll=Yes
+C:\Windows\System32\MSDATLST.OCX=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\MSHFLXGD.OCX=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\SchoolFee.chm=Yes
+C:\Windows\System32\hhctrl.ocx=Yes
+C:\Windows\System32\itss.dll=Yes
+C:\Windows\System32\itircl.dll=Yes
+C:\Windows\hh.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\database\20082009.mdb=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\School_Fee_Mgt_System.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\comdlg32.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\System32\SYSINFO.OCX=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\msstdfmt.dll=$(WinSysPath)
+C:\Windows\System32\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\MSHFLXGD.OCX=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\SchoolFee.chm=$(AppPath)
+C:\Windows\System32\hhctrl.ocx=$(WinSysPath)
+C:\Windows\System32\itss.dll=$(WinSysPath)
+C:\Windows\System32\itircl.dll=$(WinSysPath)
+C:\Windows\hh.exe=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\database\20082009.mdb=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\School_Fee_Mgt_System.exe=No
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\SchoolFee.chm=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\database\20082009.mdb=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Sherif Intl Corp
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Sherif Intl Corp
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Sherif Intl Corp]
+Icon1=School_Fee_Mgt_System.exe
+Title1=Sherif Intl Corp
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\Package
+ProjectFolder=C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System
+ServerSideCab=
+File1=C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\Package\setup.exe
+File2=C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\Package\Setup.Lst
+File3=C:\Users\Emiakpo\Documents\tes\Sch Fees Mgt System\Package\School_Fee_Mgt_System.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

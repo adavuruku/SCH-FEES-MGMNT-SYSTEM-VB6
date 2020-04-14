@@ -1,0 +1,5 @@
+Line 73: Class MSComctlLib.ProgressBar of control progStat was not a loaded control class.
+Line 80: The property name _ExtentX in progStat is invalid.
+Line 81: The property name _ExtentY in progStat is invalid.
+Line 82: The property name _Version in progStat is invalid.
+Line 85: The property name Scrolling in progStat is invalid.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Form4" Text = "Form4" WindowSize = "320, 240" ClientAreaOffset = "4, 29" BorderStyle = "2" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_Form4.jpg" HtmlFileName="Project1_Form_Form4.htm" HelpContextId = "2760" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Form4" >
+<Controls>
+  <TextBox Name = "Text1" Text = "Text1" ClassName = "TextBox" Location = "128, 24" Size = "81, 25" TabIndex = "0" HelpContextId = "2770" HotSpot = "132,53,213,78" Level = "1" Indexes = "Text1" />
+  <TextBox Name = "Text2" Text = "Text2" ClassName = "TextBox" Location = "128, 80" Size = "81, 25" TabIndex = "1" HelpContextId = "2780" HotSpot = "132,109,213,134" Level = "1" Indexes = "Text2" />
+  <CommandButton Name = "Command1" Text = "Command1" ClassName = "CommandButton" Location = "128, 128" Size = "89, 25" TabIndex = "2" HelpContextId = "2790" HotSpot = "132,157,221,182" Level = "1" Indexes = "Command1" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Text1" Bmk="Text1" Caption="Text1"  />
+<Item  Name="Text2" Bmk="Text2" Caption="Text2"  />
+<Item  Name="Command1" Bmk="Command1" Caption="Command1"  />
+</Controls>
+</Documented>
+</Form>

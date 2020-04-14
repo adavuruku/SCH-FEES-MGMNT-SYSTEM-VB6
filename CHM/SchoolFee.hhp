@@ -1,0 +1,155 @@
+[Options]
+Binary index = No
+Compatibility = 1.1 Or later
+Compiled file = SchoolFee.chm
+Contents file = SchoolFee.hhc
+index file = SchoolFee.hhk
+Default Topic = Welcome.htm
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=School Fees Collection System
+[Files]
+Copyright.htm
+Dialogs.htm
+GettingStarted.htm
+Installation.htm
+Project1_Form_adminopt.htm
+Project1_Form_commonentrance.htm
+Project1_Form_createsession.htm
+Project1_Form_editfee.htm
+Project1_Form_examfee.htm
+Project1_Form_ExamReg.htm
+Project1_Form_feereminder.htm
+Project1_Form_filter.htm
+Project1_Form_firsterm.htm
+Project1_Form_Form1.htm
+Project1_Form_Form2.htm
+Project1_Form_Form3.htm
+Project1_Form_Form4.htm
+Project1_Form_Form5.htm
+Project1_Form_frmcommon.htm
+Project1_Form_frmDBBackUp.htm
+Project1_Form_frmjsce.htm
+Project1_Form_frmLogin.htm
+Project1_Form_frmneco.htm
+Project1_Form_frmwaec.htm
+Project1_Form_generatefeereminder.htm
+Project1_Form_instalpay.htm
+Project1_Form_JSCE.htm
+Project1_Form_receipt.htm
+Project1_Form_seconterm.htm
+Project1_Form_term1.htm
+Project1_Form_Thirdterm.htm
+Project1_Form_waecneco.htm
+Registration.htm
+SchoolFeeTOC.htm
+ss.html
+StartingTheProgram.htm
+Support.htm
+Tutorial.htm
+Welcome.htm
+images\Project1_Form_adminopt.jpg
+images\Project1_Form_adminopt_Frame1.jpg
+images\Project1_Form_commonentrance.jpg
+images\Project1_Form_createsession.jpg
+images\Project1_Form_editfee.jpg
+images\Project1_Form_examfee.jpg
+images\Project1_Form_examfee_Frame1.jpg
+images\Project1_Form_ExamReg.jpg
+images\Project1_Form_ExamReg_Frame1.jpg
+images\Project1_Form_feereminder.jpg
+images\Project1_Form_filter.jpg
+images\Project1_Form_filter_Frame1.jpg
+images\Project1_Form_firsterm.jpg
+images\Project1_Form_firsterm_Frame1.jpg
+images\Project1_Form_Form1.jpg
+images\Project1_Form_Form1_Frame1.jpg
+images\Project1_Form_Form1_Frame3.jpg
+images\Project1_Form_Form1_s.jpg
+images\Project1_Form_Form2.jpg
+images\Project1_Form_Form2_Frame1.jpg
+images\Project1_Form_Form2_Frame3.jpg
+images\Project1_Form_Form2_s.jpg
+images\Project1_Form_Form3.jpg
+images\Project1_Form_Form3_Frame1.jpg
+images\Project1_Form_Form4.jpg
+images\Project1_Form_Form5.jpg
+images\Project1_Form_Form5_Frame1.jpg
+images\Project1_Form_frmcommon.jpg
+images\Project1_Form_frmcommon_Frame1.jpg
+images\Project1_Form_frmDBBackUp.jpg
+images\Project1_Form_frmDBBackUp_Picture1.jpg
+images\Project1_Form_frmjsce.jpg
+images\Project1_Form_frmjsce_Frame1.jpg
+images\Project1_Form_frmLogin.jpg
+images\Project1_Form_frmLogin_Frame1.jpg
+images\Project1_Form_frmneco.jpg
+images\Project1_Form_frmneco_Frame1.jpg
+images\Project1_Form_frmwaec.jpg
+images\Project1_Form_frmwaec_Frame1.jpg
+images\Project1_Form_generatefeereminder.jpg
+images\Project1_Form_generatefeereminder_Frame1.jpg
+images\Project1_Form_instalpay.jpg
+images\Project1_Form_instalpay_Frame1.jpg
+images\Project1_Form_JSCE.jpg
+images\Project1_Form_receipt.jpg
+images\Project1_Form_seconterm.jpg
+images\Project1_Form_seconterm_Frame1.jpg
+images\Project1_Form_seconterm_Frame2.jpg
+images\Project1_Form_term1.jpg
+images\Project1_Form_term1_Frame1.jpg
+images\Project1_Form_term1_Frame2.jpg
+images\Project1_Form_Thirdterm.jpg
+images\Project1_Form_Thirdterm_Frame1.jpg
+images\Project1_Form_Thirdterm_Frame2.jpg
+images\Project1_Form_waecneco.jpg
+images\Project1_Form_waecneco_SSTab1_0.jpg
+images\Project1_Form_waecneco_SSTab1_1.jpg
+
+[ALIAS]
+IDH_Copyright=Copyright.htm
+IDH_Dialogs=Dialogs.htm
+IDH_GettingStarted=GettingStarted.htm
+IDH_Installation=Installation.htm
+IDH_Project1_Form_adminopt=Project1_Form_adminopt.htm
+IDH_Project1_Form_commonentrance=Project1_Form_commonentrance.htm
+IDH_Project1_Form_createsession=Project1_Form_createsession.htm
+IDH_Project1_Form_editfee=Project1_Form_editfee.htm
+IDH_Project1_Form_examfee=Project1_Form_examfee.htm
+IDH_Project1_Form_ExamReg=Project1_Form_ExamReg.htm
+IDH_Project1_Form_feereminder=Project1_Form_feereminder.htm
+IDH_Project1_Form_filter=Project1_Form_filter.htm
+IDH_Project1_Form_firsterm=Project1_Form_firsterm.htm
+IDH_Project1_Form_Form1=Project1_Form_Form1.htm
+IDH_Project1_Form_Form2=Project1_Form_Form2.htm
+IDH_Project1_Form_Form3=Project1_Form_Form3.htm
+IDH_Project1_Form_Form4=Project1_Form_Form4.htm
+IDH_Project1_Form_Form5=Project1_Form_Form5.htm
+IDH_Project1_Form_frmcommon=Project1_Form_frmcommon.htm
+IDH_Project1_Form_frmDBBackUp=Project1_Form_frmDBBackUp.htm
+IDH_Project1_Form_frmjsce=Project1_Form_frmjsce.htm
+IDH_Project1_Form_frmLogin=Project1_Form_frmLogin.htm
+IDH_Project1_Form_frmneco=Project1_Form_frmneco.htm
+IDH_Project1_Form_frmwaec=Project1_Form_frmwaec.htm
+IDH_Project1_Form_generatefeereminder=Project1_Form_generatefeereminder.htm
+IDH_Project1_Form_instalpay=Project1_Form_instalpay.htm
+IDH_Project1_Form_JSCE=Project1_Form_JSCE.htm
+IDH_Project1_Form_receipt=Project1_Form_receipt.htm
+IDH_Project1_Form_seconterm=Project1_Form_seconterm.htm
+IDH_Project1_Form_term1=Project1_Form_term1.htm
+IDH_Project1_Form_Thirdterm=Project1_Form_Thirdterm.htm
+IDH_Project1_Form_waecneco=Project1_Form_waecneco.htm
+IDH_Registration=Registration.htm
+IDH_SchoolFeeTOC=SchoolFeeTOC.htm
+IDH_ss=ss.html
+IDH_StartingTheProgram=StartingTheProgram.htm
+IDH_Support=Support.htm
+IDH_Tutorial=Tutorial.htm
+IDH_Welcome=Welcome.htm
+
+[MAP]
+#include SchoolFee.h
+[TEXT POPUPS]
+#include SchoolFee.h
+#include SchoolFee.txt

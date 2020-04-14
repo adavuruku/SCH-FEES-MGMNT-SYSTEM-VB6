@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "createsession" Text = "CREATE NEW SESSION" WindowSize = "499, 258" ClientAreaOffset = "4, 29" BorderStyle = "2" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_createsession.jpg" HtmlFileName="Project1_Form_createsession.htm" HelpContextId = "2500" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "CREATE NEW SESSION" >
+<Controls>
+  <Adodc Name = "Adodc1" Text = "Adodc1" ClassName = "Adodc" Location = "32, 136" Size = "80, 22" TabIndex = "0" HelpContextId = "2510" HotSpot = "36,165,116,187" Level = "1" Indexes = "Adodc1" />
+  <CommonDialog Name = "CommonDialog1" Text = "CommonDialog1" ClassName = "CommonDialog" Location = "400, 112" Size = "0, 0" TabIndex = "0" HelpContextId = "2520" HotSpot = "404,141,404,141" Level = "1" Indexes = "CommonDialog1" />
+  <CommandButton Name = "Command1" Text = "Create New Session" ClassName = "CommandButton" Location = "144, 128" Size = "81, 33" TabIndex = "0" HelpContextId = "2530" HotSpot = "148,157,229,190" Level = "1" Indexes = "Create New Session" />
+  <TextBox Name = "Text1" Text = "Text1" ClassName = "TextBox" Location = "144, 64" Size = "209, 25" TabIndex = "1" HelpContextId = "2540" HotSpot = "148,93,357,118" Level = "1" Indexes = "Text1" />
+  <CommandButton Name = "Command2" Text = "..." ClassName = "CommandButton" Location = "360, 64" Size = "25, 25" TabIndex = "2" HelpContextId = "2550" HotSpot = "364,93,389,118" Level = "1" Indexes = "..." />
+  <ComboBox Name = "Combo1" Text = "Combo1" ClassName = "ComboBox" Location = "144, 96" Size = "209, 21" TabIndex = "3" HelpContextId = "2560" HotSpot = "148,125,357,146" Level = "1" Indexes = "Combo1" />
+  <Label Name = "Label2" Text = "SELECT NEW SESSION TO USE AS CURRENT SESSION" ClassName = "Label" Location = "24, 40" Size = "449, 25" TabIndex = "4" HelpContextId = "2570" HotSpot = "28,69,477,94" Level = "1" Indexes = "SELECT NEW SESSION TO USE AS CUR..." />
+  <Label Name = "Label3" Text = " CURRENT SESSION" ClassName = "Label" Location = "16, 72" Size = "123, 13" TabIndex = "5" HelpContextId = "2580" HotSpot = "20,101,143,114" Level = "1" Indexes = "CURRENT SESSION" />
+  <Label Name = "Label4" Text = " NEW SESSION" ClassName = "Label" Location = "47, 96" Size = "92, 13" TabIndex = "6" HelpContextId = "2590" HotSpot = "51,125,143,138" Level = "1" Indexes = "NEW SESSION" />
+  <CommandButton Name = "Command3" Text = "Cancel" ClassName = "CommandButton" Location = "232, 128" Size = "65, 33" TabIndex = "7" HelpContextId = "2600" HotSpot = "236,157,301,190" Level = "1" Indexes = "Cancel" />
+  <CommandButton Name = "Command4" Text = "Command4" ClassName = "CommandButton" Location = "72, 152" Size = "33, 25" TabIndex = "8" HelpContextId = "2610" HotSpot = "76,181,109,206" Level = "1" Indexes = "Command4" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Adodc1" Bmk="Adodc1" Caption="Adodc1"  />
+<Item  Name="CommonDialog1" Bmk="CommonDialog1" Caption="CommonDialog1"  />
+<Item  Name="Command1" Bmk="Command1" Caption="Create New Session"  />
+<Item  Name="Text1" Bmk="Text1" Caption="Text1"  />
+<Item  Name="Command2" Bmk="Command2" Caption="..."  />
+<Item  Name="Combo1" Bmk="Combo1" Caption="Combo1"  />
+<Item  Name="Command3" Bmk="Command3" Caption="Cancel"  />
+<Item  Name="Command4" Bmk="Command4" Caption="Command4"  />
+</Controls>
+</Documented>
+</Form>

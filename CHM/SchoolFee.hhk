@@ -1,0 +1,1790 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<!-- Sitemap 1.0 -->
+<!-- Put Java help object tag here -->
+</HEAD>
+<BODY>
+<UL>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "...">
+   <param name="Name" Value = "BackUp Database">
+   <param name="Local" Value = "Project1_Form_frmDBBackUp.htm#frmDBBackUp_cmdDestination">
+   <param name="Name" Value = "CREATE NEW SESSION">
+   <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Command2">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "BackUp Database">
+     <param name="Local" Value = "Project1_Form_frmDBBackUp.htm#frmDBBackUp_cmdDestination">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE NEW SESSION">
+     <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Command2">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Add">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdButton_0_">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_0_">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdButton_0_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_0_">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Administrative Task">
+   <param name="Local" Value = "Project1_Form_adminopt.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "ADMISSION NUMBER">
+   <param name="Local" Value = "Project1_Form_generatefeereminder.htm#generatefeereminder_TXTADMINNUM">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Adodc1">
+   <param name="Name" Value = "CREATE NEW SESSION">
+   <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Adodc1">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Adodc1">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_Adodc1">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_Adodc1">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_editfee.htm#editfee_Adodc1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE NEW SESSION">
+     <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Adodc1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Adodc1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_Adodc1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_Adodc1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_editfee.htm#editfee_Adodc1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "amt">
+   <param name="Name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Amt">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_amt">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Common Entrance Registration">
+     <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Amt">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_amt">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "amt1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_amt1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "arrears_due">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_arrears_due">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_arrears_due">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_arrears_due">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_arrears_due">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "arrearsdue">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_arrearsdue">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "BackUp Database">
+   <param name="Name" Value = "Administrative Task">
+   <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Command4">
+   <param name="Name" Value = "BackUp Database">
+   <param name="Local" Value = "Project1_Form_frmDBBackUp.htm">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Administrative Task">
+     <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Command4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "BackUp Database">
+     <param name="Local" Value = "Project1_Form_frmDBBackUp.htm">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Cancel">
+   <param name="Name" Value = "BackUp Database">
+   <param name="Local" Value = "Project1_Form_frmDBBackUp.htm#frmDBBackUp_cmdCancel">
+   <param name="Name" Value = "CREATE NEW SESSION">
+   <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Command3">
+   <param name="Name" Value = "Login">
+   <param name="Local" Value = "Project1_Form_frmLogin.htm#frmLogin_cmdCancel">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "BackUp Database">
+     <param name="Local" Value = "Project1_Form_frmDBBackUp.htm#frmDBBackUp_cmdCancel">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE NEW SESSION">
+     <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Command3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Login">
+     <param name="Local" Value = "Project1_Form_frmLogin.htm#frmLogin_cmdCancel">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cand_name">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_cand_name">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "category">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_category">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "category1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_category1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Change password">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_Command4">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Clear">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_Command2">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_Command2">
+   <param name="Name" Value = "EXAM REGISTRATION UPDATE">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_Command2">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_cmdclear">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdclear">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_Command2">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_Command2">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_Command2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_Command2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "EXAM REGISTRATION UPDATE">
+     <param name="Local" Value = "Project1_Form_examfee.htm#examfee_Command2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_cmdclear">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdclear">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_Command2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_Command2">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Close">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_cmdButton1_7_">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_cmdButton_7_">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_cmdButton_7_">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdButton_7_">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_7_">
+   <param name="Name" Value = "Form3">
+   <param name="Local" Value = "Project1_Form_Form3.htm#Form3_cmdButton_7_">
+   <param name="Name" Value = "Installmental Payment">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_cmdButton_7_">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_cmdButton_7_">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_cmdButton_7_">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_cmdButton1_7_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_cmdButton_7_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_cmdButton_7_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdButton_7_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_7_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form3">
+     <param name="Local" Value = "Project1_Form_Form3.htm#Form3_cmdButton_7_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Installmental Payment">
+     <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_cmdButton_7_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_cmdButton_7_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_cmdButton_7_">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbclass">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_cmbclass">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmbclass">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_cmbclass">
+   <param name="Name" Value = "SECTION TO SHOW LIST OF DEPBTORS">
+   <param name="Local" Value = "Project1_Form_filter.htm#filter_cmbclass">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_cmbclass">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_cmbclass">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmbclass">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_cmbclass">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "SECTION TO SHOW LIST OF DEPBTORS">
+     <param name="Local" Value = "Project1_Form_filter.htm#filter_cmbclass">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_cmbclass">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbsex">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_cmbsex">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmbsex">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_cmbsex">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_cmbsex">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_cmbsex">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmbsex">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_cmbsex">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_cmbsex">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cmbterm">
+   <param name="Name" Value = "Form5">
+   <param name="Local" Value = "Project1_Form_generatefeereminder.htm#generatefeereminder_cmbterm">
+   <param name="Name" Value = "Installmental Payment">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_cmbterm">
+   <param name="Name" Value = "SECTION TO SHOW LIST OF DEPBTORS">
+   <param name="Local" Value = "Project1_Form_filter.htm#filter_cmbterm">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form5">
+     <param name="Local" Value = "Project1_Form_generatefeereminder.htm#generatefeereminder_cmbterm">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Installmental Payment">
+     <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_cmbterm">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "SECTION TO SHOW LIST OF DEPBTORS">
+     <param name="Local" Value = "Project1_Form_filter.htm#filter_cmbterm">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Cmbuname">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_Cmbuname">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "cname">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_cname">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Combo1">
+   <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Combo1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Command1">
+   <param name="Local" Value = "Project1_Form_Form4.htm#Form4_Command1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Command2">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Command4">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Command4">
+   <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Command4">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Common Entrance Exams">
+   <param name="Local" Value = "Project1_Form_ExamReg.htm#ExamReg_Command3">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "CommonDialog1">
+   <param name="Local" Value = "Project1_Form_createsession.htm#createsession_CommonDialog1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "COMMONENTRANCE EXAM FEE">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_txtwaecinternal">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Confirm Password">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_names">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "conpass">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_conpass">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_conpass">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_conpass">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_conpass">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "CREATE NEW SESSION">
+   <param name="Name" Value = "Administrative Task">
+   <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Command3">
+   <param name="Name" Value = "CREATE NEW SESSION">
+   <param name="Local" Value = "Project1_Form_createsession.htm">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Administrative Task">
+     <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Command3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE NEW SESSION">
+     <param name="Local" Value = "Project1_Form_createsession.htm">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "CREATE USER ACCOUNT">
+   <param name="Name" Value = "Administrative Task">
+   <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Command1">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Administrative Task">
+     <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Command1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "DataGrid1">
+   <param name="Local" Value = "Project1_Form_editfee.htm#editfee_DataGrid1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "DATE">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_cname1">
+   <param name="Name" Value = "Installmental Payment">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_Text1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_cname1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Installmental Payment">
+     <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_Text1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "datee">
+   <param name="Name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_datee">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_datee">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Common Entrance Registration">
+     <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_datee">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_datee">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "datee1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_datee1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Delete">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdButton_4_">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_4_">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdButton_4_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_4_">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Display">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_frmneco.htm#frmneco_Command2">
+   <param name="Name" Value = "Form3">
+   <param name="Local" Value = "Project1_Form_frmjsce.htm#frmjsce_Command1">
+   <param name="Name" Value = "Form4">
+   <param name="Local" Value = "Project1_Form_frmcommon.htm#frmcommon_Command2">
+   <param name="Name" Value = "Form5">
+   <param name="Local" Value = "Project1_Form_generatefeereminder.htm#generatefeereminder_Command2">
+   <param name="Name" Value = "Report of Registered Waec Studen...">
+   <param name="Local" Value = "Project1_Form_frmwaec.htm#frmwaec_Command1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_frmneco.htm#frmneco_Command2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form3">
+     <param name="Local" Value = "Project1_Form_frmjsce.htm#frmjsce_Command1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form4">
+     <param name="Local" Value = "Project1_Form_frmcommon.htm#frmcommon_Command2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form5">
+     <param name="Local" Value = "Project1_Form_generatefeereminder.htm#generatefeereminder_Command2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Report of Registered Waec Studen...">
+     <param name="Local" Value = "Project1_Form_frmwaec.htm#frmwaec_Command1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "DTPicker1">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_DTPicker1">
+   <param name="Name" Value = "Installmental Payment">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_DTPicker1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_DTPicker1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Installmental Payment">
+     <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_DTPicker1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdButton_3_">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_3_">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdButton_3_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_3_">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit Exams Fee">
+   <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command8">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit fee">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_edit">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_edit">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_edit">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_edit">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit School Fees">
+   <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command7">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit User Account">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_s">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_s">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_s">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_s">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Edit User Previlege">
+   <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Command2">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Enter">
+   <param name="Local" Value = "Project1_Form_Form3.htm#Form3_Command1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "EXAM REGISTRATION UPDATE">
+   <param name="Local" Value = "Project1_Form_examfee.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Examination Registration">
+   <param name="Local" Value = "Project1_Form_ExamReg.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "examtype">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_examtype">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "examtype1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_examtype1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "examyear">
+   <param name="Name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_examyear">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_examyear">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Common Entrance Registration">
+     <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_examyear">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_examyear">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "examyear1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_examyear1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Exit">
+   <param name="Name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Command5">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Command5">
+   <param name="Name" Value = "Form3">
+   <param name="Local" Value = "Project1_Form_Form3.htm#Form3_Command2">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Common Entrance Registration">
+     <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Command5">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Command5">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form3">
+     <param name="Local" Value = "Project1_Form_Form3.htm#Form3_Command2">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Fee Due">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtbal">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Fee Paid">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtstatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "First term">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_first">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_first">
+   <param name="Name" Value = "SELECT TERM">
+   <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_first">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_first">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "SELECT TERM">
+     <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_editfee.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Form3">
+   <param name="Local" Value = "Project1_Form_Form3.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Form4">
+   <param name="Local" Value = "Project1_Form_Form4.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Form5">
+   <param name="Local" Value = "Project1_Form_generatefeereminder.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Frame1">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_Frame1">
+   <param name="Name" Value = "Administrative Task">
+   <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Frame1">
+   <param name="Name" Value = "EXAM REGISTRATION UPDATE">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_Frame1">
+   <param name="Name" Value = "Examination Registration">
+   <param name="Local" Value = "Project1_Form_ExamReg.htm#ExamReg_Frame1">
+   <param name="Name" Value = "Form3">
+   <param name="Local" Value = "Project1_Form_Form3.htm#Form3_Frame1">
+   <param name="Name" Value = "Login">
+   <param name="Local" Value = "Project1_Form_frmLogin.htm#frmLogin_Frame1">
+   <param name="Name" Value = "SELECT TERM">
+   <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Frame1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Administrative Task">
+     <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "EXAM REGISTRATION UPDATE">
+     <param name="Local" Value = "Project1_Form_examfee.htm#examfee_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examination Registration">
+     <param name="Local" Value = "Project1_Form_ExamReg.htm#ExamReg_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form3">
+     <param name="Local" Value = "Project1_Form_Form3.htm#Form3_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Login">
+     <param name="Local" Value = "Project1_Form_frmLogin.htm#frmLogin_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "SELECT TERM">
+     <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Frame1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Frame2">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_Frame2">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_Frame2">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_Frame2">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_Frame2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_Frame2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_Frame2">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Frame3">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_Frame3">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_Frame3">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_Frame3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_Frame3">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Generate Report">
+   <param name="Local" Value = "Project1_Form_filter.htm#filter_Command1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Image1">
+   <param name="Name" Value = "BackUp Database">
+   <param name="Local" Value = "Project1_Form_frmDBBackUp.htm#frmDBBackUp_Image1">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_feereminder.htm#feereminder_Image1">
+   <param name="Name" Value = "Receipt of school fees payment">
+   <param name="Local" Value = "Project1_Form_receipt.htm#receipt_Image1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "BackUp Database">
+     <param name="Local" Value = "Project1_Form_frmDBBackUp.htm#frmDBBackUp_Image1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_feereminder.htm#feereminder_Image1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Receipt of school fees payment">
+     <param name="Local" Value = "Project1_Form_receipt.htm#receipt_Image1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Image2">
+   <param name="Local" Value = "Project1_Form_receipt.htm#receipt_Image2">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Image4">
+   <param name="Name" Value = "Administrative Task">
+   <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Image4">
+   <param name="Name" Value = "Examination Registration">
+   <param name="Local" Value = "Project1_Form_ExamReg.htm#ExamReg_Image4">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_frmneco.htm#frmneco_Image4">
+   <param name="Name" Value = "Form3">
+   <param name="Local" Value = "Project1_Form_frmjsce.htm#frmjsce_Image4">
+   <param name="Name" Value = "Form4">
+   <param name="Local" Value = "Project1_Form_frmcommon.htm#frmcommon_Image4">
+   <param name="Name" Value = "Form5">
+   <param name="Local" Value = "Project1_Form_generatefeereminder.htm#generatefeereminder_Image4">
+   <param name="Name" Value = "Receipt of school fees payment">
+   <param name="Local" Value = "Project1_Form_receipt.htm#receipt_Image4">
+   <param name="Name" Value = "Report of Registered Waec Studen...">
+   <param name="Local" Value = "Project1_Form_frmwaec.htm#frmwaec_Image4">
+   <param name="Name" Value = "SECTION TO SHOW LIST OF DEPBTORS">
+   <param name="Local" Value = "Project1_Form_filter.htm#filter_Image4">
+   <param name="Name" Value = "SELECT TERM">
+   <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Image4">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Administrative Task">
+     <param name="Local" Value = "Project1_Form_adminopt.htm#adminopt_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examination Registration">
+     <param name="Local" Value = "Project1_Form_ExamReg.htm#ExamReg_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_frmneco.htm#frmneco_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form3">
+     <param name="Local" Value = "Project1_Form_frmjsce.htm#frmjsce_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form4">
+     <param name="Local" Value = "Project1_Form_frmcommon.htm#frmcommon_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form5">
+     <param name="Local" Value = "Project1_Form_generatefeereminder.htm#generatefeereminder_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Receipt of school fees payment">
+     <param name="Local" Value = "Project1_Form_receipt.htm#receipt_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Report of Registered Waec Studen...">
+     <param name="Local" Value = "Project1_Form_frmwaec.htm#frmwaec_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "SECTION TO SHOW LIST OF DEPBTORS">
+     <param name="Local" Value = "Project1_Form_filter.htm#filter_Image4">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "SELECT TERM">
+     <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Image4">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Install Payment">
+   <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command4">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Installmental Payment">
+   <param name="Local" Value = "Project1_Form_instalpay.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "INSTALLMENTAL PAYMENTS">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_Frame1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "InstallPay">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_install">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_install">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_install">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_install">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Internal">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_category">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "JSCE Exams">
+   <param name="Local" Value = "Project1_Form_ExamReg.htm#ExamReg_Command4">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "List deptors">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_report">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Login">
+   <param name="Local" Value = "Project1_Form_frmLogin.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Name">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtsttus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Name.">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtname">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "NECO Exams">
+   <param name="Local" Value = "Project1_Form_ExamReg.htm#ExamReg_Command2">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "NECO REGISTRATION">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_SSTab1_1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "New Student&#39;s Details">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_Frame1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "No">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_Option2">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Nosub">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Nosub">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "OK">
+   <param name="Local" Value = "Project1_Form_frmLogin.htm#frmLogin_cmdOK">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Option1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Option1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Option2">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Option2">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Option3">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Option3">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Option4">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Option4">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "pass">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_pass">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_pass">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_pass">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_pass">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Password">
+   <param name="Local" Value = "Project1_Form_frmLogin.htm#frmLogin_txtPassword">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Picture1">
+   <param name="Local" Value = "Project1_Form_frmDBBackUp.htm#frmDBBackUp_Picture1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Print">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_feereminder.htm#feereminder_Command2">
+   <param name="Name" Value = "Receipt of school fees payment">
+   <param name="Local" Value = "Project1_Form_receipt.htm#receipt_Command1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_feereminder.htm#feereminder_Command2">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Receipt of school fees payment">
+     <param name="Local" Value = "Project1_Form_receipt.htm#receipt_Command1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Receipt of school fees payment">
+   <param name="Local" Value = "Project1_Form_receipt.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Reciept No">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_Text1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Reciept No.">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtname">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Register">
+   <param name="Name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Command1">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Command2">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Common Entrance Registration">
+     <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Command1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Command2">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "regno">
+   <param name="Name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_regno">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_regno">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Common Entrance Registration">
+     <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_regno">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_regno">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "regno1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_regno1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Report">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_report">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Report of Registered Waec Studen...">
+   <param name="Local" Value = "Project1_Form_frmwaec.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Reset">
+   <param name="Name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Command3">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Command3">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Common Entrance Registration">
+     <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_Command3">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_Command3">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Save">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_Command1">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_cmdsave">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdsavee_6_">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_6_">
+   <param name="Name" Value = "Installmental Payment">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_cmdsavee_6_">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_cmdsavee_6_">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_cmdsavee_6_">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_Command1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_cmdsave">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_cmdsavee_6_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_editfee.htm#editfee_cmdButton_6_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Installmental Payment">
+     <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_cmdsavee_6_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_cmdsavee_6_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_cmdsavee_6_">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Second term">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_second">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_second">
+   <param name="Name" Value = "SELECT TERM">
+   <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command2">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_second">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_second">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "SELECT TERM">
+     <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command2">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Second Term School Fees Interfac...">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_Frame1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "SECTION TO SHOW LIST OF DEPBTORS">
+   <param name="Local" Value = "Project1_Form_filter.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Select Status">
+   <param name="Local" Value = "Project1_Form_Form3.htm#Form3_cmstatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Select Term">
+   <param name="Local" Value = "Project1_Form_generatefeereminder.htm#generatefeereminder_Frame1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "SELECT TERM ">
+   <param name="Local" Value = "Project1_Form_Form5.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Select Term and Class Level">
+   <param name="Local" Value = "Project1_Form_filter.htm#filter_Frame1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Select Year">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_frmneco.htm#frmneco_Frame1">
+   <param name="Name" Value = "Form3">
+   <param name="Local" Value = "Project1_Form_frmjsce.htm#frmjsce_Frame1">
+   <param name="Name" Value = "Form4">
+   <param name="Local" Value = "Project1_Form_frmcommon.htm#frmcommon_Frame1">
+   <param name="Name" Value = "Report of Registered Waec Studen...">
+   <param name="Local" Value = "Project1_Form_frmwaec.htm#frmwaec_Frame1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_frmneco.htm#frmneco_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form3">
+     <param name="Local" Value = "Project1_Form_frmjsce.htm#frmjsce_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form4">
+     <param name="Local" Value = "Project1_Form_frmcommon.htm#frmcommon_Frame1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Report of Registered Waec Studen...">
+     <param name="Local" Value = "Project1_Form_frmwaec.htm#frmwaec_Frame1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "sex">
+   <param name="Name" Value = "Common Entrance Registration">
+   <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_SEX">
+   <param name="Name" Value = "Examinations Registration">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_sex">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Common Entrance Registration">
+     <param name="Local" Value = "Project1_Form_JSCE.htm#JSCE_SEX">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Examinations Registration">
+     <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_sex">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "sex1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_sex1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Show Fee">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_Command1">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_Command1">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_Command1">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_Command1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_Command1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_Command1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_Command1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_Command1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Stat">
+   <param name="Local" Value = "Project1_Form_frmDBBackUp.htm#frmDBBackUp_progStat">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Status">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtstatus">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Student&#39;s Details">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_Frame1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "SubNo">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_SubNo">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "SubNo1">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_SubNo1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Text1">
+   <param name="Name" Value = "CREATE NEW SESSION">
+   <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Text1">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_Text1">
+   <param name="Name" Value = "Form4">
+   <param name="Local" Value = "Project1_Form_Form4.htm#Form4_Text1">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE NEW SESSION">
+     <param name="Local" Value = "Project1_Form_createsession.htm#createsession_Text1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_Text1">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form4">
+     <param name="Local" Value = "Project1_Form_Form4.htm#Form4_Text1">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Text2">
+   <param name="Local" Value = "Project1_Form_Form4.htm#Form4_Text2">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Text3">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_Text3">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Third Term">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_third">
+   <param name="Name" Value = "CREATE USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_third">
+   <param name="Name" Value = "SELECT TERM">
+   <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command3">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_third">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "CREATE USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form1.htm#Form1_third">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "SELECT TERM">
+     <param name="Local" Value = "Project1_Form_Form5.htm#Form5_Command3">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Third Term Fee Paying Interface">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_Frame1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtaccfee">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtaccfee">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtaccfee">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtaccfee">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtaccfee">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtadminno">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtadminno">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtadminno">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtadminno">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtadminno">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_txtadminno">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtadminno">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtadminno">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtadminno">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "TXTADMINNUM">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_TXTADMINNUM">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "TXTAMTPA">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_TXTAMTPA">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtbal">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtbal">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtbal">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtbal">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_txtbal">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtbal">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtbal">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtcommon">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_txtcommon">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtdate">
+   <param name="Name" Value = "Form2">
+   <param name="Local" Value = "Project1_Form_frmneco.htm#frmneco_txtdate">
+   <param name="Name" Value = "Form3">
+   <param name="Local" Value = "Project1_Form_frmjsce.htm#frmjsce_txtdate">
+   <param name="Name" Value = "Form4">
+   <param name="Local" Value = "Project1_Form_frmcommon.htm#frmcommon_txtdate">
+   <param name="Name" Value = "Report of Registered Waec Studen...">
+   <param name="Local" Value = "Project1_Form_frmwaec.htm#frmwaec_txtdate">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form2">
+     <param name="Local" Value = "Project1_Form_frmneco.htm#frmneco_txtdate">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form3">
+     <param name="Local" Value = "Project1_Form_frmjsce.htm#frmjsce_txtdate">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Form4">
+     <param name="Local" Value = "Project1_Form_frmcommon.htm#frmcommon_txtdate">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Report of Registered Waec Studen...">
+     <param name="Local" Value = "Project1_Form_frmwaec.htm#frmwaec_txtdate">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtdateadmit">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtdateadmit">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtdateadmit">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_txtdateadmit">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtdateadmit">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtfeedue">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtfeedue">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtfeedue">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtfeedue">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtfeedue">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_txtfeedue">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtfeedue">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtfeedue">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtfeedue">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtfeepaid">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtfeepaid">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtfeepaid">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtfeepaid">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtfeepaid">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_txtfeepaid">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtfeepaid">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtfeepaid">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtfeepaid">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtjsce">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_txtjsce">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtname">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtname">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtname">
+   <param name="Name" Value = "Installmental Payment">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_txtname">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_txtname">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtname">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Installmental Payment">
+     <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_txtname">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtnecoexternal">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_txtnecoexternal">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtnecointernal">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_txtnecointernal">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "TXTNEWAREARDUE">
+   <param name="Local" Value = "Project1_Form_instalpay.htm#instalpay_TXTNEWAREARDUE">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtrno">
+   <param name="Name" Value = "Second Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtrno">
+   <param name="Name" Value = "Third Term Fee Paying Form">
+   <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtrno">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Second Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_seconterm.htm#seconterm_txtrno">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "Third Term Fee Paying Form">
+     <param name="Local" Value = "Project1_Form_Thirdterm.htm#Thirdterm_txtrno">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtstatus">
+   <param name="Name" Value = "First Term Fee Payment For New S...">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtstatus">
+   <param name="Name" Value = "First Term Fee Payment For Old S...">
+   <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtstatus">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For New S...">
+     <param name="Local" Value = "Project1_Form_term1.htm#term1_txtstatus">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "First Term Fee Payment For Old S...">
+     <param name="Local" Value = "Project1_Form_firsterm.htm#firsterm_txtstatus">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtsweater">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtsweater">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtuniform">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_txtuniform">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "txtwaecexternal">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_txtwaecexternal">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Update">
+   <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+   <param name="Local" Value = "Project1_Form_Form2.htm#Form2_cmdButton_0_">
+   <param name="Name" Value = "EXAM REGISTRATION UPDATE">
+   <param name="Local" Value = "Project1_Form_examfee.htm#examfee_cmdButton_0_">
+   </OBJECT>
+   <UL>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "&#38;EDIT USER ACCOUNT">
+     <param name="Local" Value = "Project1_Form_Form2.htm#Form2_cmdButton_0_">
+     </OBJECT>
+     <LI> <OBJECT type="text/sitemap">
+     <param name="Name" Value = "EXAM REGISTRATION UPDATE">
+     <param name="Local" Value = "Project1_Form_examfee.htm#examfee_cmdButton_0_">
+     </OBJECT>
+   </UL>
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "UserName">
+   <param name="Local" Value = "Project1_Form_frmLogin.htm#frmLogin_txtUserName">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Users Information">
+   <param name="Local" Value = "Project1_Form_Form1.htm#Form1_Frame1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "WAEC Exams">
+   <param name="Local" Value = "Project1_Form_ExamReg.htm#ExamReg_Command1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "WAEC REGISTRATION">
+   <param name="Local" Value = "Project1_Form_waecneco.htm#waecneco_SSTab1">
+   </OBJECT>
+   <LI> <OBJECT type="text/sitemap">
+   <param name="name" Value = "Yes">
+   <param name="Local" Value = "Project1_Form_term1.htm#term1_Option1">
+   </OBJECT>
+</UL>
+</BODY>
+</HTML>
+

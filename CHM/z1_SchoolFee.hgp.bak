@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<HelpGenProject>
+  <Project level = "1" Name = "SchoolFee" SUID = "{1C968E36-40CF-4E37-A0AC-5F3793E4F8F6}" HUID = "{4524B43B-1145-43B8-8107-C043138EDEF7}"  caption = "SchoolFee"  TemplateHtmlFile = "Welcome.htm"  GeneratedHtmlFile = "Welcome.htm"  PicsSubfolderName = "images\"  Charset = "windows-1252"  CSSFullpath = "Office11.css" 
+          key="Project" 
+          icon="hlpclose" 
+          title="School Fees Collection System"  >
+    <Introduction level = "2"  caption = "Introduction"  TemplateHtmlFile = "Welcome.htm"  GeneratedHtmlFile = "Welcome.htm" 
+            key="Introduction" 
+            pkey="Project" 
+            nnodekey="GetStart" 
+            icon="helptopic" 
+            title="Introduction"  />
+    <GetStart level = "2"  caption = "Getting Started"  TemplateHtmlFile = "GettingStarted.htm"  GeneratedHtmlFile = "GettingStarted.htm" 
+            key="GetStart" 
+            pkey="Project" 
+            pnodekey="Introduction" 
+            nnodekey="Tutorial" 
+            icon="hlpclose" 
+            title="Getting Started"  >
+      <Install level = "3"  caption = "Installation"  TemplateHtmlFile = "Installation.htm"  GeneratedHtmlFile = "Installation.htm" 
+              key="Install" 
+              pkey="GetStart" 
+              nnodekey="StartProgram" 
+              icon="helptopic" 
+              title="Installation"  />
+      <StartProgram level = "3"  caption = "Starting the program"  TemplateHtmlFile = "StartingTheProgram.htm"  GeneratedHtmlFile = "StartingTheProgram.htm" 
+              key="StartProgram" 
+              pkey="GetStart" 
+              pnodekey="Install" 
+              icon="helptopic" 
+              title="Starting the program"  />
+    </GetStart>
+    <Tutorial level = "2"  caption = "Tutorial"  TemplateHtmlFile = "Tutorial.htm"  GeneratedHtmlFile = "Tutorial.htm" 
+            key="Tutorial" 
+            pkey="Project" 
+            pnodekey="GetStart" 
+            nnodekey="Dialogs" 
+            icon="helptopic" 
+            title="Tutorial"  />
+    <Dialogs level = "2"  caption = "Dialogs"  TemplateHtmlFile = "Dialogs.htm"  GeneratedHtmlFile = "Dialogs.htm" 
+            key="Dialogs" 
+            pkey="Project" 
+            pnodekey="Tutorial" 
+            nnodekey="Registration" 
+            icon="hlpclose" 
+            title="All Dialogs" 
+            ProcessCode="1"  >
+      <FORM level = "3"  name = "filter"  type = "2"  caption = "SECTION TO SHOW LIST OF DEPBTORS"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_filter.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_filter" 
+              pkey="Dialogs" 
+              nnodekey="Project1.Form_seconterm" 
+              icon="hlpclose" 
+              title="SECTION TO SHOW LIST OF DEPBTORS" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "seconterm"  type = "2"  caption = "Second Term Fee Paying Form"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_seconterm.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_seconterm" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_filter" 
+              nnodekey="Project1.Form_firsterm" 
+              icon="hlpclose" 
+              title="Second Term Fee Paying Form" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "firsterm"  type = "2"  caption = "First Term Fee Payment For Old Student"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_firsterm.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_firsterm" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_seconterm" 
+              nnodekey="Project1.Form_Thirdterm" 
+              icon="hlpclose" 
+              title="First Term Fee Payment For Old Student" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Thirdterm"  type = "2"  caption = "Third Term Fee Paying Form"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_Thirdterm.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_Thirdterm" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_firsterm" 
+              nnodekey="Project1.Form_editfee" 
+              icon="hlpclose" 
+              title="Third Term Fee Paying Form" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "editfee"  type = "2"  caption = "Form2"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_editfee.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_editfee" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_Thirdterm" 
+              nnodekey="Project1.Form_Form2" 
+              icon="hlpclose" 
+              title="Form2" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Form2"  type = "2"  caption = "&#38;EDIT USER ACCOUNT"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_Form2.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_Form2" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_editfee" 
+              nnodekey="Project1.Form_instalpay" 
+              icon="hlpclose" 
+              title="&#38;EDIT USER ACCOUNT" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "instalpay"  type = "2"  caption = "Installmental Payment"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_instalpay.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_instalpay" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_Form2" 
+              nnodekey="Project1.Form_frmLogin" 
+              icon="hlpclose" 
+              title="Installmental Payment" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "frmLogin"  type = "2"  caption = "Login"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_frmLogin.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_frmLogin" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_instalpay" 
+              nnodekey="Project1.Form_Form3" 
+              icon="hlpclose" 
+              title="Login" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Form3"  type = "2"  caption = "Form3"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_Form3.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_Form3" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_frmLogin" 
+              nnodekey="Project1.Form_term1" 
+              icon="hlpclose" 
+              title="Form3" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "term1"  type = "2"  caption = "First Term Fee Payment For New Student"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_term1.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_term1" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_Form3" 
+              nnodekey="Project1.Form_Form1" 
+              icon="hlpclose" 
+              title="First Term Fee Payment For New Student" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Form1"  type = "2"  caption = "CREATE USER ACCOUNT"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_Form1.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_Form1" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_term1" 
+              nnodekey="Project1.Form_frmDBBackUp" 
+              icon="hlpclose" 
+              title="CREATE USER ACCOUNT" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "frmDBBackUp"  type = "2"  caption = "BackUp Database"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_frmDBBackUp.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_frmDBBackUp" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_Form1" 
+              nnodekey="Project1.Form_MDIForm111" 
+              icon="hlpclose" 
+              title="BackUp Database" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "MDIForm111"  type = "2"  caption = "MDIForm111"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_MDIForm111.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_MDIForm111" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_frmDBBackUp" 
+              nnodekey="Project1.Form_waecneco" 
+              icon="helptopic" 
+              title="MDIForm111" 
+              ProcessCode="999" 
+              skipped="-1"  />
+      <FORM level = "3"  name = "waecneco"  type = "2"  caption = "Examinations Registration"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_waecneco.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_waecneco" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_MDIForm111" 
+              nnodekey="Project1.Form_createsession" 
+              icon="hlpclose" 
+              title="Examinations Registration" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "createsession"  type = "2"  caption = "CREATE NEW SESSION"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_createsession.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_createsession" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_waecneco" 
+              nnodekey="Project1.Form_receipt" 
+              icon="hlpclose" 
+              title="CREATE NEW SESSION" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "receipt"  type = "2"  caption = "Receipt of school fees payment"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_receipt.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_receipt" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_createsession" 
+              nnodekey="Project1.Form_Form4" 
+              icon="hlpclose" 
+              title="Receipt of school fees payment" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Form4"  type = "2"  caption = "Form4"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_Form4.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_Form4" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_receipt" 
+              nnodekey="Project1.Form_feereminder" 
+              icon="hlpclose" 
+              title="Form4" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "feereminder"  type = "2"  caption = "Form2"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_feereminder.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_feereminder" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_Form4" 
+              nnodekey="Project1.Form_generatefeereminder" 
+              icon="hlpclose" 
+              title="Form2" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "generatefeereminder"  type = "2"  caption = "Form5"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_generatefeereminder.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_generatefeereminder" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_feereminder" 
+              nnodekey="Project1.Form_Form5" 
+              icon="hlpclose" 
+              title="Form5" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "Form5"  type = "2"  caption = "SELECT TERM"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_Form5.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_Form5" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_generatefeereminder" 
+              nnodekey="Project1.Form_frmwaec" 
+              icon="hlpclose" 
+              title="SELECT TERM" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "frmwaec"  type = "2"  caption = "Report of Registered Waec Students"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_frmwaec.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_frmwaec" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_Form5" 
+              nnodekey="Project1.Form_frmneco" 
+              icon="hlpclose" 
+              title="Report of Registered Waec Students" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "frmneco"  type = "2"  caption = "Form2"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_frmneco.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_frmneco" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_frmwaec" 
+              nnodekey="Project1.Form_frmjsce" 
+              icon="hlpclose" 
+              title="Form2" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "frmjsce"  type = "2"  caption = "Form3"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_frmjsce.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_frmjsce" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_frmneco" 
+              nnodekey="Project1.Form_frmcommon" 
+              icon="hlpclose" 
+              title="Form3" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "frmcommon"  type = "2"  caption = "Form4"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_frmcommon.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_frmcommon" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_frmjsce" 
+              nnodekey="Project1.Form_JSCE" 
+              icon="hlpclose" 
+              title="Form4" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "JSCE"  type = "2"  caption = "Common Entrance Registration"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_JSCE.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_JSCE" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_frmcommon" 
+              nnodekey="Project1.Form_examfee" 
+              icon="hlpclose" 
+              title="Common Entrance Registration" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "examfee"  type = "2"  caption = "EXAM REGISTRATION UPDATE"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_examfee.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_examfee" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_JSCE" 
+              nnodekey="Project1.Form_adminopt" 
+              icon="hlpclose" 
+              title="EXAM REGISTRATION UPDATE" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "adminopt"  type = "2"  caption = "Administrative Task"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_adminopt.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_adminopt" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_examfee" 
+              nnodekey="Project1.Form_ExamReg" 
+              icon="hlpclose" 
+              title="Administrative Task" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "ExamReg"  type = "2"  caption = "Examination Registration"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_ExamReg.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_ExamReg" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_adminopt" 
+              nnodekey="Project1.Form_commonentrance" 
+              icon="hlpclose" 
+              title="Examination Registration" 
+              ProcessCode="999"  />
+      <FORM level = "3"  name = "commonentrance"  type = "2"  caption = "Common Entrance Registration"  TemplateHtmlFile = "Form.htm"  GeneratedHtmlFile = "Project1_Form_commonentrance.htm"  SourceProjectType = "VB6"  SourceProjectName = "Project1" 
+              key="Project1.Form_commonentrance" 
+              pkey="Dialogs" 
+              pnodekey="Project1.Form_ExamReg" 
+              icon="hlpclose" 
+              title="Common Entrance Registration" 
+              ProcessCode="999"  />
+    </Dialogs>
+    <Registration level = "2"  caption = "Registration"  TemplateHtmlFile = "Registration.htm"  GeneratedHtmlFile = "Registration.htm" 
+            key="Registration" 
+            pkey="Project" 
+            pnodekey="Dialogs" 
+            nnodekey="Support" 
+            icon="helptopic" 
+            title="Registration"  />
+    <Support level = "2"  caption = "Support"  TemplateHtmlFile = "Support.htm"  GeneratedHtmlFile = "Support.htm" 
+            key="Support" 
+            pkey="Project" 
+            pnodekey="Registration" 
+            nnodekey="Copyright" 
+            icon="helptopic" 
+            title="Support"  />
+    <Copyright level = "2"  caption = "Copyright"  TemplateHtmlFile = "Copyright.htm"  GeneratedHtmlFile = "Copyright.htm" 
+            key="Copyright" 
+            pkey="Project" 
+            pnodekey="Support" 
+            icon="helptopic" 
+            title="Copyright"  />
+  </Project>
+<Settings>
+<Options>
+    <Option Name = "Version" Value = "5.08" />
+    <Option Name = "Application" Value = "SchoolFee" />
+    <Option Name = "Organization" Value = "Agbo V &#38; Agbakagba E" />
+    <Option Name = "Author" Value = "Uplift Nusery&#47;Primary School " />
+    <Option Name = "Copyright" Value = "" />
+    <Option Name = "Website" Value = "http:&#47;&#47;" />
+    <Option Name = "EMail" Value = "" />
+    <Option Name = "Registration" Value = "http:&#47;&#47;" />
+    <Option Name = "IdentifyBy" Value = "Caption" />
+    <Option Name = "SnapshotFormat" Value = "Jpeg" />
+    <Option Name = "BulletedControlsAndMenus" Value = "true" />
+    <Option Name = "AddHotSpots" Value = "true" />
+    <Option Name = "AssociateHelpIndex" Value = "true" />
+    <Option Name = "NoReportsScreenshots" Value = "true" />
+    <Option Name = "FolderForGeneratedHelp" Value = "{Project Location}CHM" />
+    <Option Name = "CompileHTMLHelp" Value = "true" />
+    <Option Name = "OpenHTMLHelp" Value = "false" />
+    <Option Name = "SaveApplicationChanges" Value = "true" />
+    <Option Name = "Charset" Value = "windows&#45;1252" />
+    <Option Name = "AddControlsListForMenuList" Value = "true" />
+    <Option Name = "AddControlsSectionForMenuList" Value = "true" />
+    <Option Name = "AddImageForForm" Value = "true" />
+    <Option Name = "AddHotSpotsForForm" Value = "true" />
+    <Option Name = "AddControlsListForForm" Value = "true" />
+    <Option Name = "AddControlsSectionForForm" Value = "true" />
+    <Option Name = "AddImageForReport" Value = "false" />
+    <Option Name = "AddControlsListForReport" Value = "true" />
+    <Option Name = "AddControlsSectionForReport" Value = "true" />
+    <Option Name = "SubFolderForScreenshots" Value = "images&#92;" />
+    <Option Name = "FillIndexFromAppObjectsAndControls" Value = "true" />
+    <Option Name = "Language" Value = "English" />
+    <Option Name = "AddSearchTabToHelp" Value = "true" />
+    <Option Name = "CapturePreviewAreaOnly" Value = "false" />
+    <Option Name = "OpenHTMLEditor" Value = "true" />
+    <Option Name = "SkipInvisibleControls" Value = "true" />
+    <Option Name = "InsertExternalDescriptions" Value = "false" />
+    <Option Name = "ListOfTagsToParseContentsFrom" Value = "H2" />
+    <Option Name = "SyncTOCOnHTMLPageNavigationComplete" Value = "true" />
+    <Option Name = "GenerateHelpForForms" Value = "true" />
+    <Option Name = "GenerateHelpForReports" Value = "true" />
+    <Option Name = "HelpProjectName" Value = "SchoolFee" />
+    <Option Name = "HelpProjectTitle" Value = "School Fees Collection System" />
+    <Option Name = "CSSFullPath" Value = "C:&#92;Program Files&#92;Help Generator&#92;Visual Basic 6.0&#92;Templates&#92;Common&#92;Office11.css" />
+    <Option Name = "MakeNormalViewScreenshots" Value = "false" />
+    <Option Name = "LanguageCode" Value = "en" />
+    <Option Name = "GenerateHelpForTables" Value = "true" />
+    <Option Name = "MSWordTOCLowerHeadingLevel" Value = "2" />
+    <Option Name = "AutomatedTestModeOn" Value = "false" />
+    <Option Name = "GenerateHelpForQueries" Value = "true" />
+    <Option Name = "GenerateHelpForMacros" Value = "true" />
+    <Option Name = "UseProjectGroupAsSource" Value = "false" />
+    <Option Name = "UnattendedExecution" Value = "false" />
+</Options>
+</Settings>
+</HelpGenProject>

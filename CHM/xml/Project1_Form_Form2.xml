@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "Form2" Text = "&#38;EDIT USER ACCOUNT" WindowSize = "476, 478" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_Form2.jpg" HtmlFileName="Project1_Form_Form2.htm" HelpContextId = "1150" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "&#38;EDIT USER ACCOUNT" >
+<Controls>
+  <Frame Name = "s" Text = "Edit User Account" ClassName = "Frame" Location = "24, 160" Size = "433, 233" TabIndex = "0" HelpContextId = "1160" PicFileName = "Project1_Form_Form2_s.jpg" HotSpot = "24,160,457,393" Level = "1" Indexes = "Edit User Account" >
+  <Controls>
+    <CheckBox Name = "second" Text = "Second term" ClassName = "CheckBox" Location = "40, 280" Size = "97, 17" TabIndex = "1" HelpContextId = "1170" HotSpot = "40,280,137,297" Level = "2" Indexes = "Second term" />
+    <CheckBox Name = "install" Text = "InstallPay" ClassName = "CheckBox" Location = "40, 248" Size = "81, 25" TabIndex = "2" HelpContextId = "1180" HotSpot = "40,248,121,273" Level = "2" Indexes = "InstallPay" />
+    <CheckBox Name = "first" Text = "First term" ClassName = "CheckBox" Location = "40, 216" Size = "89, 25" TabIndex = "3" HelpContextId = "1190" HotSpot = "40,216,129,241" Level = "2" Indexes = "First term" />
+    <CheckBox Name = "edit" Text = "Edit fee" ClassName = "CheckBox" Location = "40, 184" Size = "81, 25" TabIndex = "4" HelpContextId = "1200" HotSpot = "40,184,121,209" Level = "2" Indexes = "Edit fee" />
+    <CheckBox Name = "third" Text = "Third Term" ClassName = "CheckBox" Location = "40, 336" Size = "113, 17" TabIndex = "15" HelpContextId = "1210" HotSpot = "40,336,153,353" Level = "2" Indexes = "Third Term" />
+    <CheckBox Name = "report" Text = "List deptors" ClassName = "CheckBox" Location = "40, 360" Size = "113, 17" TabIndex = "16" HelpContextId = "1220" HotSpot = "40,360,153,377" Level = "2" Indexes = "List deptors" />
+    <CheckBox Name = "EditUserAcc" Text = "Edit User Account" ClassName = "CheckBox" Location = "40, 304" Size = "137, 25" TabIndex = "17" HelpContextId = "1230" HotSpot = "40,304,177,329" Level = "2" Indexes = "Edit User Account" />
+  </Controls>
+  </Frame>
+  <Frame Name = "Frame1" Text = "Frame1" ClassName = "Frame" Location = "24, 16" Size = "433, 145" TabIndex = "5" HelpContextId = "1240" PicFileName = "Project1_Form_Form2_Frame1.jpg" HotSpot = "24,16,457,161" Level = "1" Indexes = "Frame1" >
+  <Controls>
+    <TextBox Name = "conpass" Text = "conpass" ClassName = "TextBox" Location = "128, 120" Size = "145, 19" TabIndex = "6" HelpContextId = "1250" HotSpot = "128,120,273,139" Level = "2" Indexes = "conpass" />
+    <TextBox Name = "pass" Text = "pass" ClassName = "TextBox" Location = "128, 88" Size = "145, 19" TabIndex = "7" HelpContextId = "1260" HotSpot = "128,88,273,107" Level = "2" Indexes = "pass" />
+    <Label Name = "Label3" Text = "New Password:" ClassName = "Label" Location = "32, 120" Size = "89, 17" TabIndex = "8" HelpContextId = "1270" HotSpot = "32,120,121,137" Level = "2" Indexes = "New Password" />
+    <Label Name = "Label2" Text = "Old Password:" ClassName = "Label" Location = "32, 88" Size = "97, 17" TabIndex = "9" HelpContextId = "1280" HotSpot = "32,88,129,105" Level = "2" Indexes = "Old Password" />
+    <Label Name = "Label1" Text = "User name:" ClassName = "Label" Location = "32, 48" Size = "89, 17" TabIndex = "10" HelpContextId = "1290" HotSpot = "32,48,121,65" Level = "2" Indexes = "User name" />
+    <ComboBox Name = "Cmbuname" Text = "Cmbuname" ClassName = "ComboBox" Location = "128, 48" Size = "145, 21" TabIndex = "13" HelpContextId = "1300" HotSpot = "128,48,273,69" Level = "2" Indexes = "Cmbuname" />
+    <CommandButton Name = "Command4" Text = "Change password" ClassName = "CommandButton" Location = "152, 72" Size = "113, 17" TabIndex = "14" HelpContextId = "1310" HotSpot = "152,72,265,89" Level = "2" Indexes = "Change password" />
+  </Controls>
+  </Frame>
+  <Frame Name = "Frame3" Text = "Frame3" ClassName = "Frame" Location = "24, 392" Size = "433, 73" TabIndex = "11" HelpContextId = "1320" PicFileName = "Project1_Form_Form2_Frame3.jpg" HotSpot = "24,392,457,465" Level = "1" Indexes = "Frame3" >
+  <Controls>
+    <CommandButton Name = "Command2" Text = "Clear" ClassName = "CommandButton" Location = "128, 408" Size = "57, 49" TabIndex = "12" HelpContextId = "1330" HotSpot = "128,408,185,457" Level = "2" Indexes = "Clear" />
+    <CommandButton Name = "cmdButton(0)" Text = "Update" ClassName = "CommandButton" Location = "56, 408" Size = "57, 49" TabIndex = "18" HelpContextId = "1340" HotSpot = "56,408,113,457" Level = "2" Indexes = "Update" />
+    <CommandButton Name = "cmdButton1(7)" Text = "Close" ClassName = "CommandButton" Location = "192, 408" Size = "57, 49" TabIndex = "19" Index = "7" HelpContextId = "1350" HotSpot = "192,408,249,457" Level = "2" Indexes = "Close" />
+  </Controls>
+  </Frame>
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="s" Bmk="s" Caption="Edit User Account"  />
+<Item  Name="second" Bmk="second" Caption="Second term"  />
+<Item  Name="install" Bmk="install" Caption="InstallPay"  />
+<Item  Name="first" Bmk="first" Caption="First term"  />
+<Item  Name="edit" Bmk="edit" Caption="Edit fee"  />
+<Item  Name="third" Bmk="third" Caption="Third Term"  />
+<Item  Name="report" Bmk="report" Caption="List deptors"  />
+<Item  Name="EditUserAcc" Bmk="EditUserAcc" Caption="Edit User Account"  />
+<Item  Name="Frame1" Bmk="Frame1" Caption="Frame1"  />
+<Item  Name="conpass" Bmk="conpass" Caption="conpass"  />
+<Item  Name="pass" Bmk="pass" Caption="pass"  />
+<Item  Name="Cmbuname" Bmk="Cmbuname" Caption="Cmbuname"  />
+<Item  Name="Command4" Bmk="Command4" Caption="Change password"  />
+<Item  Name="Frame3" Bmk="Frame3" Caption="Frame3"  />
+<Item  Name="Command2" Bmk="Command2" Caption="Clear"  />
+<Item  Name="cmdButton_0_" Bmk="cmdButton_0_" Caption="Update"  />
+<Item  Name="cmdButton1_7_" Bmk="cmdButton1_7_" Caption="Close"  />
+</Controls>
+</Documented>
+</Form>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "frmDBBackUp" Text = "BackUp Database" WindowSize = "436, 251" ClientAreaOffset = "4, 21" BorderStyle = "4" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_frmDBBackUp.jpg" HtmlFileName="Project1_Form_frmDBBackUp.htm" HelpContextId = "2330" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "BackUp Database" >
+<Controls>
+  <PictureBox Name = "Picture1" Text = "Picture1" ClassName = "PictureBox" Location = "0, 0" Size = "430, 152" TabIndex = "0" HelpContextId = "2340" PicFileName = "Project1_Form_frmDBBackUp_Picture1.jpg" HotSpot = "4,21,434,173" Level = "1" Indexes = "Picture1" >
+  <Controls>
+    <Image Name = "Image1" Text = "Image1" ClassName = "Image" Location = "2, 3" Size = "127, 141" TabIndex = "0" HelpContextId = "2350" HotSpot = "6,24,133,165" Level = "2" Indexes = "Image1" />
+    <Label Name = "Label14" Text = "Backup Database" ClassName = "Label" Location = "131, 3" Size = "163, 23" TabIndex = "1" HelpContextId = "2360" HotSpot = "135,24,298,47" Level = "2" Indexes = "Backup Database" />
+    <TextBox Name = "txtDestination" Text = "Backup Database" ClassName = "TextBox" Location = "131, 80" Size = "265, 19" TabIndex = "2" HelpContextId = "2370" HotSpot = "135,101,400,120" Level = "2" Indexes = "Backup Database" />
+    <ProgressBar Name = "progStat" Text = "Stat" ClassName = "ProgressBar" Location = "130, 117" Size = "293, 21" TabIndex = "4" HelpContextId = "2380" HotSpot = "134,138,427,159" Level = "2" Indexes = "Stat" />
+    <CommandButton Name = "cmdDestination" Text = "..." ClassName = "CommandButton" Location = "398, 79" Size = "25, 19" TabIndex = "5" HelpContextId = "2390" HotSpot = "402,100,427,119" Level = "2" Indexes = "..." />
+    <Label Name = "Label1" Text = "Backup Destination" ClassName = "Label" Location = "132, 65" Size = "137, 17" TabIndex = "6" HelpContextId = "2400" HotSpot = "136,86,273,103" Level = "2" Indexes = "Backup Destination" />
+    <Label Name = "lblCount" Text = "(0%)..." ClassName = "Label" Location = "257, 101" Size = "65, 17" TabIndex = "9" HelpContextId = "2410" HotSpot = "261,122,326,139" Level = "2" Indexes = "(0%)..." />
+    <Label Name = "lblInform" Text = "Creating backup......." ClassName = "Label" Location = "131, 103" Size = "129, 15" TabIndex = "10" HelpContextId = "2420" HotSpot = "135,124,264,139" Level = "2" Indexes = "Creating backup......." />
+  </Controls>
+  </PictureBox>
+  <CommandButton Name = "cmdCancel" Text = "Cancel" ClassName = "CommandButton" Location = "320, 184" Size = "106, 25" TabIndex = "3" HelpContextId = "2430" HotSpot = "324,205,430,230" Level = "1" Indexes = "Cancel" />
+  <Label Name = "lblSize" Text = "Size" ClassName = "Label" Location = "130, 188" Size = "152, 16" TabIndex = "7" HelpContextId = "2440" HotSpot = "134,209,286,225" Level = "1" Indexes = "Size" />
+  <Label Name = "Label2" Text = "Current size of Database" ClassName = "Label" Location = "4, 191" Size = "116, 13" TabIndex = "8" HelpContextId = "2450" HotSpot = "8,212,124,225" Level = "1" Indexes = "Current size of Database" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Picture1" Bmk="Picture1" Caption="Picture1"  />
+<Item  Name="Image1" Bmk="Image1" Caption="Image1"  />
+<Item  Name="txtDestination" Bmk="txtDestination" Caption="Backup Database"  />
+<Item  Name="progStat" Bmk="progStat" Caption="Stat"  />
+<Item  Name="cmdDestination" Bmk="cmdDestination" Caption="..."  />
+<Item  Name="cmdCancel" Bmk="cmdCancel" Caption="Cancel"  />
+</Controls>
+</Documented>
+</Form>

@@ -1,0 +1,48 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="School_Fee_Mgt_System.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"School_Fee_Mgt_System.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"TABCTL32.OCX"
+"MSFLXGRD.OCX"
+"comdlg32.OCX"
+"MSCOMCTL.OCX"
+"MSCOMCT2.OCX"
+"RICHTX32.OCX"
+"RICHED32.DLL"
+"MSCHRT20.OCX"
+"SYSINFO.OCX"
+"MSDATGRD.OCX"
+"msstdfmt.dll"
+"MSDATLST.OCX"
+"MSADODC.OCX"
+"MSHFLXGD.OCX"
+"MSDERUN.DLL"
+"MSDBRPTR.DLL"
+"MSBIND.DLL"
+"SchoolFee.chm"
+"hhctrl.ocx"
+"itss.dll"
+"itircl.dll"
+"hh.exe"
+"MDAC_TYP.EXE"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
+"20082009.mdb"

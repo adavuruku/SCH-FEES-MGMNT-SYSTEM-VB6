@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "examfee" Text = "EXAM REGISTRATION UPDATE" WindowSize = "488, 425" ClientAreaOffset = "4, 29" BorderStyle = "2" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_examfee.jpg" HtmlFileName="Project1_Form_examfee.htm" HelpContextId = "3830" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "EXAM REGISTRATION UPDATE" >
+<Controls>
+  <Frame Name = "Frame1" Text = "Frame1" ClassName = "Frame" Location = "8, 8" Size = "465, 377" TabIndex = "0" HelpContextId = "3840" PicFileName = "Project1_Form_examfee_Frame1.jpg" HotSpot = "12,37,477,414" Level = "1" Indexes = "Frame1" >
+  <Controls>
+    <Label Name = "Label1" Text = "WAEC INTERNAL FEE" ClassName = "Label" Location = "64, 40" Size = "145, 17" TabIndex = "1" HelpContextId = "3850" HotSpot = "68,69,213,86" Level = "2" Indexes = "WAEC INTERNAL FEE" />
+    <Label Name = "Label2" Text = "WAEC EXTERNAL FEE" ClassName = "Label" Location = "64, 88" Size = "145, 17" TabIndex = "2" HelpContextId = "3860" HotSpot = "68,117,213,134" Level = "2" Indexes = "WAEC EXTERNAL FEE" />
+    <Label Name = "Label3" Text = "NECO INTERNAL FEE" ClassName = "Label" Location = "64, 136" Size = "145, 17" TabIndex = "3" HelpContextId = "3870" HotSpot = "68,165,213,182" Level = "2" Indexes = "NECO INTERNAL FEE" />
+    <Label Name = "Label4" Text = "NECO  EXTERNAL FEE" ClassName = "Label" Location = "64, 184" Size = "145, 17" TabIndex = "4" HelpContextId = "3880" HotSpot = "68,213,213,230" Level = "2" Indexes = "NECO  EXTERNAL FEE" />
+    <Label Name = "Label5" Text = "JSCE EXAM FEE" ClassName = "Label" Location = "64, 224" Size = "145, 17" TabIndex = "5" HelpContextId = "3890" HotSpot = "68,253,213,270" Level = "2" Indexes = "JSCE EXAM FEE" />
+    <Label Name = "Label6" Text = "COMMONENTRANCE EXAM FEE" ClassName = "Label" Location = "64, 272" Size = "121, 33" TabIndex = "6" HelpContextId = "3900" HotSpot = "68,301,189,334" Level = "2" Indexes = "COMMONENTRANCE EXAM FEE" />
+    <TextBox Name = "txtwaecinternal" Text = "COMMONENTRANCE EXAM FEE" ClassName = "TextBox" Location = "184, 40" Size = "169, 25" TabIndex = "7" HelpContextId = "3910" HotSpot = "188,69,357,94" Level = "2" Indexes = "COMMONENTRANCE EXAM FEE" />
+    <TextBox Name = "txtwaecexternal" Text = "txtwaecexternal" ClassName = "TextBox" Location = "184, 88" Size = "169, 25" TabIndex = "8" HelpContextId = "3920" HotSpot = "188,117,357,142" Level = "2" Indexes = "txtwaecexternal" />
+    <TextBox Name = "txtnecointernal" Text = "txtnecointernal" ClassName = "TextBox" Location = "184, 136" Size = "169, 25" TabIndex = "9" HelpContextId = "3930" HotSpot = "188,165,357,190" Level = "2" Indexes = "txtnecointernal" />
+    <TextBox Name = "txtnecoexternal" Text = "txtnecoexternal" ClassName = "TextBox" Location = "184, 176" Size = "169, 25" TabIndex = "10" HelpContextId = "3940" HotSpot = "188,205,357,230" Level = "2" Indexes = "txtnecoexternal" />
+    <TextBox Name = "txtjsce" Text = "txtjsce" ClassName = "TextBox" Location = "184, 216" Size = "169, 25" TabIndex = "11" HelpContextId = "3950" HotSpot = "188,245,357,270" Level = "2" Indexes = "txtjsce" />
+    <TextBox Name = "txtcommon" Text = "txtcommon" ClassName = "TextBox" Location = "184, 264" Size = "169, 25" TabIndex = "12" HelpContextId = "3960" HotSpot = "188,293,357,318" Level = "2" Indexes = "txtcommon" />
+    <CommandButton Name = "cmdButton(0)" Text = "Update" ClassName = "CommandButton" Location = "176, 312" Size = "57, 49" TabIndex = "13" HelpContextId = "3970" HotSpot = "180,341,237,390" Level = "2" Indexes = "Update" />
+    <CommandButton Name = "Command2" Text = "Clear" ClassName = "CommandButton" Location = "240, 312" Size = "57, 49" TabIndex = "14" HelpContextId = "3980" HotSpot = "244,341,301,390" Level = "2" Indexes = "Clear" />
+  </Controls>
+  </Frame>
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Frame1" Bmk="Frame1" Caption="Frame1"  />
+<Item  Name="txtwaecinternal" Bmk="txtwaecinternal" Caption="COMMONENTRANCE EXAM FEE"  />
+<Item  Name="txtwaecexternal" Bmk="txtwaecexternal" Caption="txtwaecexternal"  />
+<Item  Name="txtnecointernal" Bmk="txtnecointernal" Caption="txtnecointernal"  />
+<Item  Name="txtnecoexternal" Bmk="txtnecoexternal" Caption="txtnecoexternal"  />
+<Item  Name="txtjsce" Bmk="txtjsce" Caption="txtjsce"  />
+<Item  Name="txtcommon" Bmk="txtcommon" Caption="txtcommon"  />
+<Item  Name="cmdButton_0_" Bmk="cmdButton_0_" Caption="Update"  />
+<Item  Name="Command2" Bmk="Command2" Caption="Clear"  />
+</Controls>
+</Documented>
+</Form>

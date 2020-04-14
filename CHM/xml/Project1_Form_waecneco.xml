@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "waecneco" Text = "Examinations Registration" WindowSize = "696, 375" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_waecneco.jpg" HtmlFileName="Project1_Form_waecneco.htm" HelpContextId = "2460" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Examinations Registration" >
+<Controls>
+  <TabControl Name = "SSTab1" Text = "WAEC REGISTRATION" ClassName = "TabControl" OriginalClassName = "SSTab" Location = "8, 16" Size = "681, 361" TabIndex = "11" HelpContextId = "2470" HotSpot = "8,16,689,377" Level = "1" Indexes = "WAEC REGISTRATION" >
+  <Controls>
+    <Page Name = "SSTab1_0" Text = "WAEC REGISTRATION" ClassName = "Page" OriginalClassName = "SSTab" Location = "8, 16" Size = "681, 361" TabIndex = "11" HelpContextId = "2480" PicFileName = "Project1_Form_waecneco_SSTab1_0.jpg" HotSpot = "8,16,689,377" TabPageTab = "8,16,227,20" Level = "2" TabPageIndex = "0" Indexes = "WAEC REGISTRATION" >
+    <Controls>
+      <ComboBox Name = "examyear" Text = "examyear" ClassName = "ComboBox" Location = "552, 80" Size = "105, 21" TabIndex = "0" HotSpot = "552,80,657,101" Level = "3" Indexes = "examyear" />
+      <Adodc Name = "Adodc1" Text = "Adodc1" ClassName = "Adodc" Location = "72, 264" Size = "80, 22" TabIndex = "0" HotSpot = "72,264,152,286" Level = "3" Indexes = "Adodc1" />
+      <TextBox Name = "cname" Text = "cname" ClassName = "TextBox" Location = "208, 104" Size = "209, 33" TabIndex = "1" HotSpot = "208,104,417,137" Level = "3" Indexes = "cname" />
+      <TextBox Name = "regno" Text = "regno" ClassName = "TextBox" Location = "552, 112" Size = "105, 33" TabIndex = "2" HotSpot = "552,112,657,145" Level = "3" Indexes = "regno" />
+      <ComboBox Name = "sex" Text = "sex" ClassName = "ComboBox" Location = "208, 160" Size = "209, 21" TabIndex = "3" HotSpot = "208,160,417,181" Level = "3" Indexes = "sex" />
+      <DTPicker Name = "datee" Text = "datee" ClassName = "DTPicker" Location = "552, 152" Size = "105, 25" TabIndex = "4" HotSpot = "552,152,657,177" Level = "3" Indexes = "datee" />
+      <ComboBox Name = "examtype" Text = "examtype" ClassName = "ComboBox" Location = "552, 208" Size = "105, 21" TabIndex = "5" HotSpot = "552,208,657,229" Level = "3" Indexes = "examtype" />
+      <ComboBox Name = "SubNo" Text = "SubNo" ClassName = "ComboBox" Location = "208, 248" Size = "209, 21" TabIndex = "6" HotSpot = "208,248,417,269" Level = "3" Indexes = "SubNo" />
+      <TextBox Name = "amt" Text = "amt" ClassName = "TextBox" Location = "552, 248" Size = "105, 33" TabIndex = "7" HotSpot = "552,248,657,281" Level = "3" Indexes = "amt" />
+      <CommandButton Name = "Command2" Text = "Register" ClassName = "CommandButton" Location = "208, 288" Size = "81, 25" TabIndex = "8" HotSpot = "208,288,289,313" Level = "3" Indexes = "Register" />
+      <CommandButton Name = "Command3" Text = "Reset" ClassName = "CommandButton" Location = "312, 288" Size = "81, 25" TabIndex = "9" HotSpot = "312,288,393,313" Level = "3" Indexes = "Reset" />
+      <CommandButton Name = "Command5" Text = "Exit" ClassName = "CommandButton" Location = "408, 288" Size = "81, 25" TabIndex = "10" HotSpot = "408,288,489,313" Level = "3" Indexes = "Exit" />
+      <CommandButton Name = "Command4" Text = "Command2" ClassName = "CommandButton" Location = "208, 288" Size = "89, 33" TabIndex = "12" HotSpot = "208,288,297,321" Level = "3" Indexes = "Command2" />
+      <CommandButton Name = "Command6" Text = "Command2" ClassName = "CommandButton" Location = "312, 288" Size = "89, 33" TabIndex = "13" HotSpot = "312,288,401,321" Level = "3" Indexes = "Command2" />
+      <CommandButton Name = "Command7" Text = "Command2" ClassName = "CommandButton" Location = "408, 288" Size = "89, 33" TabIndex = "14" HotSpot = "408,288,497,321" Level = "3" Indexes = "Command2" />
+      <Label Name = "Label8" Text = "Date:" ClassName = "Label" Location = "424, 152" Size = "121, 20" TabIndex = "15" HotSpot = "424,152,545,172" Level = "3" Indexes = "Date" />
+      <Label Name = "Label3" Text = "Class Category:" ClassName = "Label" Location = "24, 192" Size = "161, 20" TabIndex = "16" HotSpot = "24,192,185,212" Level = "3" Indexes = "Class Category" />
+      <Label Name = "Label2" Text = "Candidate Name:" ClassName = "Label" Location = "24, 112" Size = "161, 20" TabIndex = "17" HotSpot = "24,112,185,132" Level = "3" Indexes = "Candidate Name" />
+      <Label Name = "Label9" Text = "Label9" ClassName = "Label" Location = "32, 120" Size = "159, 20" TabIndex = "18" HotSpot = "32,120,191,140" Level = "3" Indexes = "Label9" />
+      <Label Name = "Label13" Text = "Label13" ClassName = "Label" Location = "432, 160" Size = "119, 20" TabIndex = "19" HotSpot = "432,160,551,180" Level = "3" Indexes = "Label13" />
+      <Label Name = "Label12" Text = "Label12" ClassName = "Label" Location = "32, 200" Size = "159, 20" TabIndex = "20" HotSpot = "32,200,191,220" Level = "3" Indexes = "Label12" />
+      <Label Name = "Label1" Text = "Gender:" ClassName = "Label" Location = "24, 152" Size = "161, 20" TabIndex = "21" HotSpot = "24,152,185,172" Level = "3" Indexes = "Gender" />
+      <Label Name = "Label4" Text = "Label4" ClassName = "Label" Location = "32, 160" Size = "159, 20" TabIndex = "22" HotSpot = "32,160,191,180" Level = "3" Indexes = "Label4" />
+      <Label Name = "Label6" Text = "Year of Exams" ClassName = "Label" Location = "424, 72" Size = "113, 20" TabIndex = "23" HotSpot = "424,72,537,92" Level = "3" Indexes = "Year of Exams" />
+      <Label Name = "Label7" Text = "Label7" ClassName = "Label" Location = "432, 80" Size = "111, 20" TabIndex = "24" HotSpot = "432,80,543,100" Level = "3" Indexes = "Label7" />
+      <Label Name = "Label10" Text = "Exam Type:" ClassName = "Label" Location = "424, 200" Size = "121, 20" TabIndex = "25" HotSpot = "424,200,545,220" Level = "3" Indexes = "Exam Type" />
+      <Label Name = "Label14" Text = "Label14" ClassName = "Label" Location = "432, 208" Size = "119, 20" TabIndex = "26" HotSpot = "432,208,551,228" Level = "3" Indexes = "Label14" />
+      <Label Name = "Label15" Text = "No of Subject Sit For:" ClassName = "Label" Location = "24, 240" Size = "161, 20" TabIndex = "27" HotSpot = "24,240,185,260" Level = "3" Indexes = "No of Subject Sit For" />
+      <Label Name = "Label16" Text = "Label16" ClassName = "Label" Location = "32, 248" Size = "159, 20" TabIndex = "28" HotSpot = "32,248,191,268" Level = "3" Indexes = "Label16" />
+      <Label Name = "Label5" Text = "Amount Paid" ClassName = "Label" Location = "424, 248" Size = "121, 20" TabIndex = "29" HotSpot = "424,248,545,268" Level = "3" Indexes = "Amount Paid" />
+      <Label Name = "Label11" Text = "Label11" ClassName = "Label" Location = "432, 256" Size = "119, 20" TabIndex = "30" HotSpot = "432,256,551,276" Level = "3" Indexes = "Label11" />
+      <Label Name = "Label33" Text = "Registration No:" ClassName = "Label" Location = "424, 112" Size = "113, 20" TabIndex = "31" HotSpot = "424,112,537,132" Level = "3" Indexes = "Registration No" />
+      <Label Name = "Label34" Text = "Label34" ClassName = "Label" Location = "432, 120" Size = "111, 20" TabIndex = "32" HotSpot = "432,120,543,140" Level = "3" Indexes = "Label34" />
+      <OptionButton Name = "Option1" Text = "Option1" ClassName = "OptionButton" Location = "136, 80" Size = "25, 25" TabIndex = "57" HotSpot = "136,80,161,105" Level = "3" Indexes = "Option1" />
+      <Label Name = "Label26" Text = "Candidate Type" ClassName = "Label" Location = "24, 88" Size = "105, 25" TabIndex = "58" HotSpot = "24,88,129,113" Level = "3" Indexes = "Candidate Type" />
+      <Label Name = "Label27" Text = "External" ClassName = "Label" Location = "120, 64" Size = "57, 25" TabIndex = "59" HotSpot = "120,64,177,89" Level = "3" Indexes = "External" />
+      <OptionButton Name = "Option2" Text = "Option2" ClassName = "OptionButton" Location = "184, 80" Size = "25, 25" TabIndex = "60" HotSpot = "184,80,209,105" Level = "3" Indexes = "Option2" />
+      <Label Name = "Label28" Text = "Internal" ClassName = "Label" Location = "184, 64" Size = "57, 25" TabIndex = "61" HotSpot = "184,64,241,89" Level = "3" Indexes = "Internal" />
+      <TextBox Name = "category" Text = "Internal" ClassName = "TextBox" Location = "208, 192" Size = "209, 33" TabIndex = "62" HotSpot = "208,192,417,225" Level = "3" Indexes = "Internal" />
+    </Controls>
+    </Page>
+    <Page Name = "SSTab1_1" Text = "NECO REGISTRATION" ClassName = "Page" OriginalClassName = "SSTab" Location = "8, 16" Size = "681, 361" TabIndex = "11" HelpContextId = "2490" PicFileName = "Project1_Form_waecneco_SSTab1_1.jpg" HotSpot = "8,16,689,377" TabPageTab = "235,16,227,20" Level = "2" TabPageIndex = "1" Indexes = "NECO REGISTRATION" >
+    <Controls>
+      <ComboBox Name = "examyear1" Text = "examyear1" ClassName = "ComboBox" Location = "552, 64" Size = "105, 21" TabIndex = "33" HotSpot = "552,64,657,85" Level = "3" Indexes = "examyear1" />
+      <TextBox Name = "regno1" Text = "regno1" ClassName = "TextBox" Location = "552, 96" Size = "105, 33" TabIndex = "34" HotSpot = "552,96,657,129" Level = "3" Indexes = "regno1" />
+      <ComboBox Name = "examtype1" Text = "examtype1" ClassName = "ComboBox" Location = "552, 192" Size = "105, 21" TabIndex = "35" HotSpot = "552,192,657,213" Level = "3" Indexes = "examtype1" />
+      <TextBox Name = "amt1" Text = "amt1" ClassName = "TextBox" Location = "552, 232" Size = "105, 33" TabIndex = "36" HotSpot = "552,232,657,265" Level = "3" Indexes = "amt1" />
+      <ComboBox Name = "SubNo1" Text = "SubNo1" ClassName = "ComboBox" Location = "208, 232" Size = "209, 21" TabIndex = "37" HotSpot = "208,232,417,253" Level = "3" Indexes = "SubNo1" />
+      <ComboBox Name = "category1" Text = "category1" ClassName = "ComboBox" Location = "208, 184" Size = "209, 21" TabIndex = "38" HotSpot = "208,184,417,205" Level = "3" Indexes = "category1" />
+      <ComboBox Name = "sex1" Text = "sex1" ClassName = "ComboBox" Location = "208, 144" Size = "209, 21" TabIndex = "39" HotSpot = "208,144,417,165" Level = "3" Indexes = "sex1" />
+      <CommandButton Name = "Command1" Text = "Register" ClassName = "CommandButton" Location = "208, 272" Size = "81, 25" TabIndex = "40" HotSpot = "208,272,289,297" Level = "3" Indexes = "Register" />
+      <CommandButton Name = "Command8" Text = "Reset" ClassName = "CommandButton" Location = "312, 272" Size = "81, 25" TabIndex = "41" HotSpot = "312,272,393,297" Level = "3" Indexes = "Reset" />
+      <CommandButton Name = "Command9" Text = "Exit" ClassName = "CommandButton" Location = "408, 272" Size = "81, 25" TabIndex = "42" HotSpot = "408,272,489,297" Level = "3" Indexes = "Exit" />
+      <DTPicker Name = "datee1" Text = "datee1" ClassName = "DTPicker" Location = "552, 136" Size = "105, 25" TabIndex = "43" HotSpot = "552,136,657,161" Level = "3" Indexes = "datee1" />
+      <CommandButton Name = "Command10" Text = "Command2" ClassName = "CommandButton" Location = "208, 272" Size = "89, 33" TabIndex = "44" HotSpot = "208,272,297,305" Level = "3" Indexes = "Command2" />
+      <CommandButton Name = "Command11" Text = "Command2" ClassName = "CommandButton" Location = "312, 272" Size = "89, 33" TabIndex = "45" HotSpot = "312,272,401,305" Level = "3" Indexes = "Command2" />
+      <CommandButton Name = "Command12" Text = "Command2" ClassName = "CommandButton" Location = "408, 272" Size = "89, 33" TabIndex = "46" HotSpot = "408,272,497,305" Level = "3" Indexes = "Command2" />
+      <Label Name = "Label17" Text = "Registration No:" ClassName = "Label" Location = "424, 96" Size = "113, 20" TabIndex = "47" HotSpot = "424,96,537,116" Level = "3" Indexes = "Registration No" />
+      <Label Name = "Label18" Text = "Amount Paid" ClassName = "Label" Location = "424, 232" Size = "121, 20" TabIndex = "48" HotSpot = "424,232,545,252" Level = "3" Indexes = "Amount Paid" />
+      <Label Name = "Label19" Text = "No of Subject Sit For:" ClassName = "Label" Location = "24, 224" Size = "161, 20" TabIndex = "49" HotSpot = "24,224,185,244" Level = "3" Indexes = "No of Subject Sit For" />
+      <Label Name = "Label20" Text = "Exam Type:" ClassName = "Label" Location = "424, 184" Size = "121, 20" TabIndex = "50" HotSpot = "424,184,545,204" Level = "3" Indexes = "Exam Type" />
+      <Label Name = "Label21" Text = "Year of Exams" ClassName = "Label" Location = "424, 56" Size = "113, 20" TabIndex = "51" HotSpot = "424,56,537,76" Level = "3" Indexes = "Year of Exams" />
+      <Label Name = "Label22" Text = "Gender:" ClassName = "Label" Location = "24, 136" Size = "161, 20" TabIndex = "52" HotSpot = "24,136,185,156" Level = "3" Indexes = "Gender" />
+      <Label Name = "Label23" Text = "Candidate Name:" ClassName = "Label" Location = "24, 96" Size = "161, 20" TabIndex = "53" HotSpot = "24,96,185,116" Level = "3" Indexes = "Candidate Name" />
+      <Label Name = "Label24" Text = "Class Category:" ClassName = "Label" Location = "24, 176" Size = "161, 20" TabIndex = "54" HotSpot = "24,176,185,196" Level = "3" Indexes = "Class Category" />
+      <Label Name = "Label25" Text = "Date:" ClassName = "Label" Location = "424, 136" Size = "121, 20" TabIndex = "55" HotSpot = "424,136,545,156" Level = "3" Indexes = "Date" />
+      <TextBox Name = "cname1" Text = "Date:" ClassName = "TextBox" Location = "208, 96" Size = "209, 33" TabIndex = "56" HotSpot = "208,96,417,129" Level = "3" Indexes = "Date" />
+      <OptionButton Name = "Option3" Text = "Option3" ClassName = "OptionButton" Location = "184, 64" Size = "25, 25" TabIndex = "63" HotSpot = "184,64,209,89" Level = "3" Indexes = "Option3" />
+      <OptionButton Name = "Option4" Text = "Option4" ClassName = "OptionButton" Location = "136, 64" Size = "25, 25" TabIndex = "64" HotSpot = "136,64,161,89" Level = "3" Indexes = "Option4" />
+      <Label Name = "Label29" Text = "Internal" ClassName = "Label" Location = "184, 48" Size = "57, 25" TabIndex = "65" HotSpot = "184,48,241,73" Level = "3" Indexes = "Internal" />
+      <Label Name = "Label30" Text = "External" ClassName = "Label" Location = "120, 48" Size = "57, 25" TabIndex = "66" HotSpot = "120,48,177,73" Level = "3" Indexes = "External" />
+      <Label Name = "Label31" Text = "Candidate Type" ClassName = "Label" Location = "24, 72" Size = "105, 25" TabIndex = "67" HotSpot = "24,72,129,97" Level = "3" Indexes = "Candidate Type" />
+    </Controls>
+    </Page>
+  </Controls>
+  </TabControl>
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="SSTab1" Bmk="SSTab1" Caption="TAB:SSTab1"  />
+<Item  Name="SSTab1_0" Bmk="SSTab1_0" Caption="WAEC REGISTRATION"  />
+<Item  Name="examyear" Bmk="examyear" Caption="examyear"  />
+<Item  Name="Adodc1" Bmk="Adodc1" Caption="Adodc1"  />
+<Item  Name="cname" Bmk="cname" Caption="cname"  />
+<Item  Name="regno" Bmk="regno" Caption="regno"  />
+<Item  Name="sex" Bmk="sex" Caption="sex"  />
+<Item  Name="datee" Bmk="datee" Caption="datee"  />
+<Item  Name="examtype" Bmk="examtype" Caption="examtype"  />
+<Item  Name="SubNo" Bmk="SubNo" Caption="SubNo"  />
+<Item  Name="amt" Bmk="amt" Caption="amt"  />
+<Item  Name="Command2" Bmk="Command2" Caption="Register"  />
+<Item  Name="Command3" Bmk="Command3" Caption="Reset"  />
+<Item  Name="Command5" Bmk="Command5" Caption="Exit"  />
+<Item  Name="Command4" Bmk="Command4" Caption="Command2"  />
+<Item  Name="Command6" Bmk="Command6" Caption="Command2"  />
+<Item  Name="Command7" Bmk="Command7" Caption="Command2"  />
+<Item  Name="Option1" Bmk="Option1" Caption="Option1"  />
+<Item  Name="Option2" Bmk="Option2" Caption="Option2"  />
+<Item  Name="category" Bmk="category" Caption="Internal"  />
+<Item  Name="SSTab1_1" Bmk="SSTab1_1" Caption="NECO REGISTRATION"  />
+<Item  Name="examyear1" Bmk="examyear1" Caption="examyear1"  />
+<Item  Name="regno1" Bmk="regno1" Caption="regno1"  />
+<Item  Name="examtype1" Bmk="examtype1" Caption="examtype1"  />
+<Item  Name="amt1" Bmk="amt1" Caption="amt1"  />
+<Item  Name="SubNo1" Bmk="SubNo1" Caption="SubNo1"  />
+<Item  Name="category1" Bmk="category1" Caption="category1"  />
+<Item  Name="sex1" Bmk="sex1" Caption="sex1"  />
+<Item  Name="Command1" Bmk="Command1" Caption="Register"  />
+<Item  Name="Command8" Bmk="Command8" Caption="Reset"  />
+<Item  Name="Command9" Bmk="Command9" Caption="Exit"  />
+<Item  Name="datee1" Bmk="datee1" Caption="datee1"  />
+<Item  Name="Command10" Bmk="Command10" Caption="Command2"  />
+<Item  Name="Command11" Bmk="Command11" Caption="Command2"  />
+<Item  Name="Command12" Bmk="Command12" Caption="Command2"  />
+<Item  Name="cname1" Bmk="cname1" Caption="Date"  />
+<Item  Name="Option3" Bmk="Option3" Caption="Option3"  />
+<Item  Name="Option4" Bmk="Option4" Caption="Option4"  />
+</Controls>
+</Documented>
+</Form>

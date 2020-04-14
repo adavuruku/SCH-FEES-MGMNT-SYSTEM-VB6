@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Form Name = "editfee" Text = "Form2" WindowSize = "548, 534" ClientAreaOffset = "0, 0" BorderStyle = "0" HasMap = "True" Charset="windows-1252" Stylesheet="Office11.css" PicFileName="Project1_Form_editfee.jpg" HtmlFileName="Project1_Form_editfee.htm" HelpContextId = "1050" NewHelpContextIdsCount = "1" SourceProjectType = "VB6" SourceProjectName = "Project1" OriginalClassName = "VBForm" Indexes = "Form2" >
+<Controls>
+  <Adodc Name = "Adodc1" Text = "Adodc1" ClassName = "Adodc" Location = "24, 48" Size = "80, 22" TabIndex = "0" HelpContextId = "1060" HotSpot = "24,48,104,70" Level = "1" Indexes = "Adodc1" />
+  <DataGrid Name = "DataGrid1" Text = "DataGrid1" ClassName = "DataGrid" Location = "8, 160" Size = "529, 313" TabIndex = "0" HelpContextId = "1070" HotSpot = "8,160,537,473" Level = "1" Indexes = "DataGrid1" />
+  <Label Name = "Label1" Text = "UPDATING OF SCHOOL FEES PRICES" ClassName = "Label" Location = "24, 80" Size = "505, 33" TabIndex = "1" HelpContextId = "1080" HotSpot = "24,80,529,113" Level = "1" Indexes = "UPDATING OF SCHOOL FEES PRICES" />
+  <CommandButton Name = "cmdButton(6)" Text = "Save" ClassName = "CommandButton" Location = "144, 16" Size = "57, 49" TabIndex = "2" Index = "6" HelpContextId = "1090" HotSpot = "144,16,201,65" Level = "1" Indexes = "Save" />
+  <CommandButton Name = "cmdButton(0)" Text = "Add" ClassName = "CommandButton" Location = "144, 112" Size = "57, 49" TabIndex = "3" HelpContextId = "1100" HotSpot = "144,112,201,161" Level = "1" Indexes = "Add" />
+  <CommandButton Name = "cmdButton(3)" Text = "Edit" ClassName = "CommandButton" Location = "256, 112" Size = "57, 49" TabIndex = "4" Index = "3" HelpContextId = "1110" HotSpot = "256,112,313,161" Level = "1" Indexes = "Edit" />
+  <CommandButton Name = "cmdButton(4)" Text = "Delete" ClassName = "CommandButton" Location = "400, 24" Size = "57, 49" TabIndex = "5" Index = "4" HelpContextId = "1120" HotSpot = "400,24,457,73" Level = "1" Indexes = "Delete" />
+  <CommandButton Name = "cmdButton(1)" Text = "Save" ClassName = "CommandButton" Location = "56, 112" Size = "57, 49" TabIndex = "6" Index = "1" HelpContextId = "1130" HotSpot = "56,112,113,161" Level = "1" Indexes = "Save" />
+  <CommandButton Name = "cmdButton(7)" Text = "Close" ClassName = "CommandButton" Location = "480, 480" Size = "57, 49" TabIndex = "7" Index = "7" HelpContextId = "1140" HotSpot = "480,480,537,529" Level = "1" Indexes = "Close" />
+</Controls>
+<Documented>
+<Controls>
+<Item  Name="Adodc1" Bmk="Adodc1" Caption="Adodc1"  />
+<Item  Name="DataGrid1" Bmk="DataGrid1" Caption="DataGrid1"  />
+<Item  Name="cmdButton_6_" Bmk="cmdButton_6_" Caption="Save"  />
+<Item  Name="cmdButton_0_" Bmk="cmdButton_0_" Caption="Add"  />
+<Item  Name="cmdButton_3_" Bmk="cmdButton_3_" Caption="Edit"  />
+<Item  Name="cmdButton_4_" Bmk="cmdButton_4_" Caption="Delete"  />
+<Item  Name="cmdButton_1_" Bmk="cmdButton_1_" Caption="Save"  />
+<Item  Name="cmdButton_7_" Bmk="cmdButton_7_" Caption="Close"  />
+</Controls>
+</Documented>
+</Form>
